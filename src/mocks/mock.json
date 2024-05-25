@@ -1,0 +1,2304 @@
+{
+    "catalogue": [
+        {
+            "id": "1",
+            "type": "movie",
+            "title": "Amor, acoso, asesinato",
+            "info": 
+                {
+                    "year": "2024",
+                    "limit": "TV-MA",
+                    "duration": "1 h 30 min",
+                    "description": "En este documental con giros inesperados, un mecánico se anima a incursionar en las citas en línea y conoce a una mujer que lleva una obsesión romántica a extremos mortales.",
+                    "genre": "Documental",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABc5tGAINxTLSK1ifdZ1TmUwDLurivjgnmk_YBwsiBdcTHslscSSvnFuy_OEjoL8pb3eA59KnwVf_zrYRQYvkWst6CQlGxX21nA7LsCrQy_M3mRO3-savM3BYHxvLuwSVRpI_ovfCVKv_ETBztEwqPOQ_ysfnRGHgufqfnQCWCKC71CNLHwssXqSCINTpYF4.jpg?r=34c",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABccBtATCKZ1HXxrAUk8x3wFqSVxhXYFjDtkG26o-zEBFqpmkPa_tZE9317Rh6L4fAXsRb3JI71ZpAYRB7a3vuc6cyLjjGyJrvGmU.jpg?r=98b",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXbbhe-ONuCNb5NFb_iSuS8V0Qo7TkH49qJmTu6KQv3UVK5-ZnCzVfJ42ryUF-3o5yKadh7tpWRhqAs2PuayAV5kY6LTd0RZGA5V.jpg?r=b95",
+                    "trailer": "https://www.youtube.com/watch?v=39qKDgtm8HU&ab_channel=TrailersEnEspa%C3%B1olTV",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSm3YhktC94gdO19RUvIsTzzP6NAz6o7cou6FW2dbjmVYMMYZ_OkzrW-UDRPxcmvCXHF-QB6nzurYIHoHFIMfrLPEVXGXzAuoozGpbCDyKZjKiGQzz9XX_qnBHeQE8bhJiVQUjTeDc8-z_2f9pv-hiR7kgZm4uvbjhMtEbs9vgS3Z5wk_5Mnaw.png?r=990"
+                }
+            ,
+            "featured": true,
+            "acclaimed": false,
+            "popular": true
+        },
+        {
+            "id": "2",
+            "type": "movie",
+            "title": "La sociedad de la nieve",
+            "info": 
+                {
+                    "year": "2024",
+                    "limit": "R",
+                    "duration": "2 h 25 min",
+                    "description": "Cuando un avión se estrella en el remoto corazón de los Andes, los sobrevivientes unen fuerzas y pasan a ser su mayor esperanza para volver a casa.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABY9uAnlQwvTyZ4F2i6mUwqARKi2BhcOT8wnYc1hKNSvTIAYq--DdttiyJOpIJ76lYmGfzx3HQerfSR-ZGWnU9lV0pcmRHM6JRDAjFHIpdudlqNQQRscZj5oceNba8A0NVUxwk1_PL7gLEELN__dMFxr_9TawvpVGgahposQyZUdkgOo5hI-7ZVnyjZCici_xTlp93qhY886Zwnke-Czu5d5CXGXeWODbafQ-6JDG1y0Rhw.jpg?r=4ee",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABch0fg3_O0OkoVV1NauiohsCuzuAKV1k3vr8vaoFu0wkt4EU7RhAO-5vJ1i7XA5u0tUurciFcaTam2ZugM8jaxe8tFXUnpIO-ZUo.jpg?r=c4c",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdU0mlX3WalVgdTLvzhoe4Eqwi0Gsm-Hn0Q1pmlPVIxLomEyZVKEXa8oo_OYf6v-IKUNsOXn-RkJToLEBVRvTp8NnS1XdhYQdwVZ.jpg?r=393",
+                    "trailer": "https://www.youtube.com/watch?v=l9tP4M8URhQ&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABUUghbKuid6Kmce8MB68sHrax8QeyHz6K2-V8G0zxigNvf4tvcGmBrK8U9KoZ1_5T_5NoeOqwnmIm08D5OgULXduDFUYZ48iMOKcQf_nrWhv-qdVrsRxtZAMKXZH7ydBMFPZgG7jhQXfjANMTViU68VDoh47RaVttrukitaLASe7zDw3hC67Uw.png?r=1d2"
+                }
+            ,
+            "featured": true,
+            "acclaimed": true,
+            "popular": true
+        },
+        {
+            "id": "3",
+            "type": "movie",
+            "title": "Leo",
+            "info": 
+                {
+                    "year": "2023",
+                    "limit": "PG",
+                    "duration": "1 h 46 min",
+                    "description": "Esta comedia musical relata el último año de primaria de una clase visto a través de la mirada de su mascota, la adorable lagartija Leo.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXvQ6mF2upM6koaj9Lo5uNfKEdjrG91EE7vOzDfiOkZ1u2te--0DYs7aWx3aY9jG-rhUOr_1XI4ceZ210A444r2N6GgM_bJlI8gLhKs4uq2tj4Zx7KXKIctnrfH195Gr-LQU.jpg?r=650",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRJzYHgV67mGm_3U8S6RSNrAc9YdyLj8xgAbNbc7uhf5a_fou-eCzezHlv67QNwn-Sq46MxsJDFWAv_MXi4m23SWq6asBfwJXNRf.jpg?r=e21",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa3I9QQpVz0B_8Dm2-quWkKFiBAUhTd3IwQ7Lc172bHwCTF8K3T3EG9x0nXFYL8T3Ki75YrbQu6-UJnIoqmO63wW73U4Z-FqzMkA.jpg?r=172",
+                    "trailer": "https://www.youtube.com/watch?v=o8yzcW11X0g&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABbYVUD1aw6Uva8NQ8ISdZbKA-txj3AfOfReFCmU76FJ2Q2W_5tY8EbqOvKL3GYa7i74FzWFVpS8YgzteHg8yIAMujYpmxvUhrIbUexbw34HRqpOb0iYaiLFOvKddNVivLnbzh8ngqgyHQ0FneIUO1z4tH7XyjmNRfdzcPmeaT1Bodp0vz5edew.png?r=079"
+                }
+            ,
+            "featured": true,
+            "acclaimed": false,
+            "popular": true
+        },
+        {
+            "id": "4",
+            "type": "movie",
+            "title": "Mi villano favorito 3",
+            "info": 
+                {
+                    "year": "2017",
+                    "limit": "PG",
+                    "duration": "1 h 29 min",
+                    "description": "Gru pierde su trabajo y sufre una crisis de identidad, hasta que se encuentra con alguien que podría ayudarlo a volver a ser él mismo: ¡su hermano gemelo!",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbTW-AbCJWRwp4Nrj-sbfrfb7dq-WkcEYVsxX3jOzWshyLcE6jpiyQWeJdPONq_zI0rhS4Fb57aw0wS-s3YZf4KmyviRtTRyotjdPBa57noqS2PodkRU3MV6kNmIwyAanWjk__ZRDzVM8Go4o1FG5WZJxgmj2cq9Ifs.jpg?r=e9d",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUrMEwmdggiV0l1ht1Zly3F8ad29vsDj7uU5yQwHoYh1RvDtB9VBFwbERawIczD8GzqagDdgwge5y8THgyuPzYJqQouImC3Qvw5o.jpg?r=5e9",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZV2GeyFxyMo6QX6Fu2ebGeUIhc99GW6OSUJlHtcKXdHcI5xj8pKwEIH3JvEGE3uMekz4wWOY59MjiYoQGC6Da-EhfUWghh7ouCC.jpg?r=788",
+                    "trailer": "https://www.youtube.com/watch?v=kdYRLVG-Mi8&ab_channel=UniversalPicturesM%C3%A9xico",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQ6X24riq34cFha8-3DVS-Uv8awWJ8iDEgn65h-pbKlHIgO3fNr3d6TIuv3eomVncvPp86c7v0RBmuEyCh6XZNlfisASESFO67pQuQ_S5ISW.png?r=caf"
+                }
+            ,
+            "featured": true,
+            "acclaimed": false,
+            "popular": true
+        },
+        {
+            "id": "5",
+            "type": "movie",
+            "title": "Sonic 2: La película",
+            "info": 
+                {
+                    "year": "2022",
+                    "limit": "PG",
+                    "duration": "2 h 4 min",
+                    "description": "Ansioso por ser un héroe, Sonic hace equipo con su nuevo amigo Tails para impedir que el Dr. Robotnik y el equidna Knuckles se apoderen de una esmeralda muy poderosa.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWJ6y17Y3MMaIYtobEyKrI8EVyFExfWgfjSNpjkQIeKoseezDQxsRBEYAqLxhbcwyfkUqenFYn9SwVjCCVovWh7dhK-vlABVKVg.jpg?r=ba6",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVEOuCEbckEM-y3A9HezHSuAnCfV-8fletMDjBaK0604_yb1NUiPeSSJWi7fysBrwbp1yEJKyTDCYjiuliQ_BflFYUknTurPVxHx.jpg?r=e02",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa2UPWq3NIruq0m38zUYyEwtkJq_Q62RVZVDnINZIcEfOfFRuy6WIsOcuK1Bu9uZoqd1b6Q0_It7XGnHf_NdmDWdwokz9VqfcPJq.jpg?r=7d3",
+                    "trailer": "https://www.youtube.com/watch?v=ahVkLQKoLFw&ab_channel=PARAMOUNTPICTURESM%C3%89XICO",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaPjRJ2vzmVORrBPxPNwu13trG0yL4GFbg-kHqSKo4YybV7y1AOTTwNl25ghgVhVlCe4Q_z2dvXtl1Ncz7bwlMdw8dLQfjtSLhPSfdB6n0M9.png?r=535"
+                }
+            ,
+            "featured": true,
+            "acclaimed": false,
+            "popular": true
+        },
+        {
+            "id": "6",
+            "type": "movie",
+            "title": "Shrek",
+            "info": 
+                {
+                    "year": "2001",
+                    "limit": "PG",
+                    "duration": "1 h 30 min",
+                    "description": "En una misión para recuperar a una hermosa princesa de las garras de un dragón feroz, un ogro gruñón forma un equipo con un burro ocurrente.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVTj_9D-IrnWmNFZzDoT9PKJYbdl-Nm5fhMELP_cS2_9qd92WkgQ5PVUIvrCU2FcRmX_YFMkKVI9Yelf2RAgpv97t1pDBbCbX6g.jpg?r=609",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTEHl8LyITAzoU2HuErRKPqs8Ws_SpoT3OqFzYNDXZsSvx9vrJIjO9ep196HqOHk4Glvz2Nook0toqLe8tMxKWX7FJ9ZhSlYmaQe.jpg?r=674",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABX5oX6Rdk0rdkKOeMM7L0J2n0pYuQqJHafx1u9f7uz02SZTdquyPvZZT55PS3hE8d_DePTBf4E3M4n1dIA7vzKmfJHR-rqaCW-CH.jpg?r=a3c",
+                    "trailer": "https://www.youtube.com/watch?v=CwXOrWvPBPk&ab_channel=RottenTomatoesClassicTrailers",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdQXyiY5SjodgcW-xd330T2VuoI-edghNYX-0j960DqWX_hHADm7vQDAW3Oiq94wU5kqW-Y2uD5c0HxvRpxaDeKmf73GFj8Yp_T0JipmYcWB.png?r=928"
+                }
+            ,
+            "featured": true,
+            "acclaimed": true,
+            "popular": true
+        },
+        {
+            "id": "7",
+            "type": "movie",
+            "title": "Sexy por accidente",
+            "info": 
+                {
+                    "year": "2018",
+                    "limit": "PG-13",
+                    "duration": "1 h 50 min",
+                    "description": "Después de una caída en el gimnasio, una joven insegura se despierta rebosante de autoestima y comienza a ver la vida, la belleza y el amor desde una nueva perspectiva.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQOmx9YjCBWw9saBC4j4Pdz8aqM0UFotaolg7O7dWNJGq3mdD79oTrpTE54JdSM5nZsfev6tM5Rbi0tRSpVOScEaqc5X-Y7R0qk.jpg?r=78f",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeJWXTPE-asO6qBPnhIz3zrQ2LPeVSA93IfqgBNxQzJFaQTKEUHdlGoK6_Nus61ayAC7nWv5Xv_OjTpu5cSYyM2MPp3tLCcIPC2S.jpg?r=b12",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVt-QCC9IudcyqwNWjstX7Xvy8olPzFlZ9HblHi-GCrnElPHx_ox9CUvbctRXqW-clWY4D5CnE1TaO_6dRBgGEM1vYc-a-PJjLB8.jpg?r=501",
+                    "trailer": "https://www.youtube.com/watch?v=HchvaqWt_sc&ab_channel=CineMovsTrailers",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABb_ZVez8wtEpEj-FD6Ofnx6nZWp5ozrSraq1w-hVDZZYU80MXPfG0sqJK3qENHuepiTmv0D6tUpKOUucw91a8qRR1xwGifNqo3smRRfeSq9T.png?r=2c3"
+                }
+            ,
+            "featured": true,
+            "acclaimed": false,
+            "popular": true
+        },
+        {
+            "id": "8",
+            "type": "movie",
+            "title": "Lift: Un robo de primera clase",
+            "info": 
+                {
+                    "year": "2024",
+                    "limit": "PG-13",
+                    "duration": "1 h 46 min",
+                    "description": "Un ladrón profesional y su equipo de expertos planean un osado golpe: robar lingotes de oro valuados en 500 millones de dólares a 12 000 metros de altura.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABR6bjK9Di7uuQRHQyPCZauAdas3sF2Es7Uvm_agsAG9hEU0Q1n6dmqtXk3dPr-XsTbmapkYXbv5GhOOp-HDSZE9IBDAP83PXRBrRbVjeyg63YVUQGtm5fD7RT3YSxqk7i7Dw.jpg?r=7ae",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYZQI8qQLkQ0gEBUyn-wfSRiia4EN6WRvUG9Ek-J50y3uzHbnSHdWXPC6__5C04AjIpeOGXSYUqI4xR8GHd3coJxhu5XaAVheZGN.jpg?r=bd7",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdLWliMY48KAfWW0gUxLjjwYSVcPBXne-vJPmqXOn0LspN9XMxyxx2ki23u4CIPsiaxERck3TQDYE4MIKJAePmGe4U5S6yqbfnDU.jpg?r=758",
+                    "trailer": "https://www.youtube.com/watch?v=dwxckhzmPg0&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSoXBAY9KHZ2cSEPJuoIhs98jNnFCe_xWMjGNqZjZ1Qw3fV9BUbK-tgdt2-qxafk27nQFqVAySM1f7OMMXvAVqzDAIFb1b1WPC1UPlfK-b7ttqrlBCQ7TbcEdaEmcw-ZD0WMJju0DqxJjt7c4FI0bYyL1f3ayJcCDIvkCCyICW31UClrltF0BQ.png?r=f04"
+                }
+            ,
+            "featured": true,
+            "acclaimed": false,
+            "popular": true
+        },
+        {
+            "id": "9",
+            "type": "movie",
+            "title": "La razón de estar contigo",
+            "info": 
+                {
+                    "year": "2017",
+                    "limit": "PG",
+                    "duration": "1 h 40 min",
+                    "description": "Un perro explora el significado de sus reencarnaciones a través de sus dueños humanos mientras descubre la lealtad, el amor, el dolor y la decepción.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWtfMtRHbWIeY801KZZNy37i0gAfAPBb2ymeOKKvRtquK6MnqZkKo7DD0mArdau36BdgY7vp2GwJ9c-Kwlt_n7A_80ycttjlhKo.jpg?r=cb5",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWf8VqGj4Sk4Hcyaogp3bI5n3FeTg_trOvmSeiWWZj69KQOtLUNCZu8900qHA4CmYud4az7mSxNNU6666lx3DEnqwdWX_0Hbj9Xy.jpg?r=4bd",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfD5m2GCaotCKaksX63r6hwUeYQgvRDBjZm-3nIKiesq9VzEfC-f0u0MgRJcbn6JLwXwP6pYo-wOKkYDugzExmtxdZsxTmRKzdJ2.jpg?r=12e",
+                    "trailer": "https://www.youtube.com/watch?v=7mljHYAgE1M&ab_channel=UIPArgentina",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdW3IE4-ECCaS0qOeTOhFkqYzTu670rw1p46ExQPEMxLD8aY54V4e3BKNgoh8ohri-2OVAMgakCy1gr1CTUxAg27KGKm8HinMRFbp5BjqW66.png?r=bbf"
+                }
+            ,
+            "featured": true,
+            "acclaimed": false,
+            "popular": true
+        },
+        { 
+            "id": "10",
+            "type": "serie",
+            "title": "Dr. House", 
+            "info": 
+                {
+                    "year": "2004",
+                    "limit": "TV-14",
+                    "duration": "8 temporadas",
+                    "description": "Hugh Laurie es el irascible Dr. Gregory House, un médico paradójico que maltrata a sus pacientes, pero que es un genio en el tratamiento de enfermedades misteriosas.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABc_hm9R8n8b2AyyKa_KlXhwn85TBgzSTG9mNCVA2hShIlADx2eJ0NF40-4LN_3P1TN4GgUMa0KjskG6te9fR62d1WXOGr-xy1hsgXRkvPmutaR3_cT2WaK1V6zsZ16TWQy-27NsWaS9aSJuSRoPfdg5qFavXkxtNLgQ37OAS-DypM78iyrYrPVQhITV5HL5uxkV3qscZg2ta8eiGFTojBjtSuAS9_xUDJLZvb3WcCGJAfyNW_dU-TbnngEj0kpbDh-88BPJDfFvPY0Q9F7u5IBnxg-7lKE4Q9bkotDKko3iC8F3oAe8YlOn81zjUWwh4Ap-hSM4m5D1u-btu2v1f7OE.jpg?r=22b",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa6-kJ2aTwCQYYPf_Azl_IUK-Tm6P3Gja1gpMqyQcEll7YlrLkgFFmmIpMD93djbM4yNIgMdRiP8vklCBamjc6KUFeR5ocT4lXQP.jpg?r=eb3",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa6-kJ2aTwCQYYPf_Azl_IUK-Tm6P3Gja1gpMqyQcEll7YlrLkgFFmmIpMD93djbM4yNIgMdRiP8vklCBamjc6KUFeR5ocT4lXQP.jpg?r=eb3",
+                    "trailer": "https://www.youtube.com/watch?v=6p7yNFN0bTA&ab_channel=ExiledHearts",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQa4L0yArYZRs4L23PJf4wOL7dKPFuCdp5LSL1j1NTnOBEOnyst_4R9FDURO74L-gnn9qb_DldEMviDW2uiELULDvk-MZPx_eJRVIpoiyJgP.png?r=341"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "11",
+            "type": "serie",
+            "title": "Belleza verdadera", 
+            "info": 
+                {
+                    "year": "2020",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "Tras ser acosada, una adolescente aprende el arte del maquillaje y se convierte en la sensación de su nueva escuela, pero mantener las apariencias es más difícil de lo que parece.",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYEhd7bSe7b0jW2Z2WOJ2ehmn-mRo_F6SrWT_7E0TpCXiGcdebBkQZzP6A64iZg0bgWfICu2ScJ2eyVTnpeO5bBTZHwezc8DTwkRJgZuc35qChQ1cewYsNQgzfoptI8FBS_pntkHG8SyW0OT6wIuMOTcBnGntAXyOgI.jpg?r=c42",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUSQnK-lQNRW9e6LwNbZrlmukwmj-G6pSefEVxGi7yaSspgNlno5G47K_1Mpz9iIcoLZqPdMRowemOlNYWKcuEuRBkoIudBb7JmC.jpg?r=db4",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf9bRpmfM6OUp8RI2T_N11xVujYlx0Zfj_UN-EU9jA-s8O_MUQ1qvqiY68dKPPo3qzhFhg6mRdFQuEQ82P06dhfWQQUYP3sUAGIg.jpg?r=7a2",
+                    "trailer": "https://www.youtube.com/watch?v=BhP1eYQ5Pxk&ab_channel=CJENMGlobal",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaegnEc6Z9vjZ4k8H0_NvmWvfs87qDIW4NbxqC6PX_JXtziIJ57TRuVCsjjbWPanL-73D-YGKuKCZodcwexyGOsEwx7pf82CNropGM2SwmQy.png?r=5da"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "12",
+            "type": "serie",
+            "title": "Yellowstone", 
+            "info": 
+                {
+                    "year": "2018",
+                    "limit": "TV-MA",
+                    "duration": "3 temporadas",
+                    "description": "Contra todo pronóstico, y contra los intereses de empresarios y políticos que planean echarlo, el dueño del rancho más grande de Montana defiende un estilo de vida en decadencia.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYjIKyg-NGtPwbxOeG8HrsCJntEopWxOKXSVNcweeMM2n839tT-wHHQuL3NMupPAuGBvLYNukAw1qoTw8-GREYLKLDuH-_vJ308JSv0BPRUnsTxO_X1tt94oRzPLduc6Psm7H_TgFOMHRAlZ6RMlmrwMtQFkdXYs2sPF8SuTGnMceoJv8cRwShGC8jpQUiLci4AGfIKUzpgK03O86bX3agXNcIvD1Ja4qMhJHqYGztOqdShmm9Wf0NnMWVoGJXMPYVe-QE0__4Nm7w7aI1rg4g2bJwXEBFNhcJ54Ac5VRH6oPgiMH6iX_yiWAe53dzSO5g9mlfKMFvVAVuxAiKqFUgd97A.jpg?r=fd8",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd7CvRFlUGus2c99gWO7VwhSMkLWc21D-9apVWYJ8wwKZy1kRnqHDpbj1HnGF7wzwEfM2j_SYdgY3W0eHfI4tGHUeESWaFMVyvkd.jpg?r=fe2",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUqkrABAjT_BmQ1KQ3X8ctWRCo2AdsR5TCaIOymNqiCL56LHTLqCmMOra3wHSU-1JG272S6VRsJbcRpdkhMDiUwh_G3j5X83HEBZ.jpg?r=d95",
+                    "trailer": "https://www.youtube.com/watch?v=jr32f0rnK1o&ab_channel=RottenTomatoesTV",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQulL3XTHMQ5Ns8pEMMm4IBRPoaXZ37ElNrOIgi72FurHFj-BcltohbrGxSxGW-81k86o20tQCDDfqbzqMlaE3fIXlZtk0NOBegYXlkZlSt6.png?r=c1d"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "13",
+            "type": "serie",
+            "title": "Patrulla de cachorros", 
+            "info": 
+                {
+                    "year": "2013",
+                    "limit": "TV-Y",
+                    "duration": "2 temporadas",
+                    "description": "Seis cachorros heroicos, guiados por un experto en tecnología de diez años, llevan a cabo peligrosas misiones de rescate con humor, habilidades y vehículos geniales.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABava8EkUEd7yxIZwFCaY02Wz229vz_1VwjTTsVYjXNlL1VXhdD-IO9TN0DSBTF2bPJcCjpklaxZ5e_uxwbstw3_E37H6yGmbNKo.jpg?r=cad",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTGfuLVPAbk4ITT9-lUXzBgwmO2gCFZJzh7huKQLUp8ePwt4VPEAq5GcV29TzITVTgL9UOxP0Xpdk87A4GFhton708Eczycpf0b6.jpg?r=647",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVzxa_pjbFCMky1M961Py4KAGLIwzBMSSLJRMlOzxDeCipk_g7NViuRBatJbIyN8NUP2QZ6t0lMwM6k9XFoe9huk8kJ19gp46JRM.jpg?r=cfa",
+                    "trailer": "https://www.youtube.com/watch?v=fhl-QwSHijc&ab_channel=NickJr.",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUyOEua0x3Y9jZqxFwYETWVckSNnuOR3JarGcWqhw0qPjpksRF0ip8tPxnbfmAFZx3MrpDveEPWzt_7YApQx_U0tUv_Tnttvci6i1PWekZmF.png?r=fac"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "14",
+            "type": "serie",
+            "title": "Peppa Pig", 
+            "info": 
+                {
+                    "year": "2004",
+                    "limit": "TV-Y",
+                    "duration": "6 temporadas",
+                    "description": "Acompaña a la intrépida cerdita Peppa, a su familia y a sus amigos a vivir aventuras cotidianas que nos muestran que en todos lados podemos aprender y reír.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVN-yCC2obLdT_FYH9vke4dzMDusFsdqgIdtOPhxVcgOG9gS91HmuoDx15CH75mYwdgg-jvP04V2Z4AJiUM5q9Fe69N5IvCOhxY.jpg?r=be6",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeiSOVpmrNJhbh7T9CAZoaEmoTrxhWj6EBovR8EcqNYt0oq7Dzuv9zFOu522n9R85DASxBxQPInbwOgxWErkurHLAFG-k3KisfY9.jpg?r=5a0",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWnZ4osar6O1sUfwGyb4qvn0H9pYpUU2LmiyIWb2YtHbNF66lVBZkr0N_ejsSdFGdJ-anlim8LuGTreFO-X7uvVKK43ZB_yeaWh3.jpg?r=96a",
+                    "trailer": "https://www.youtube.com/watch?v=B3RytGcgHIk&ab_channel=PeppaPigEspa%C3%B1olLatino-CanalOficial",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYXY4dLcuoLdAAHovX0IXUqe4vkYqxgTv4KU04rGkWAFjt4t5aU14wpLANlskrg1gmoeIBEw37wBaSLuLcpTppOYGu34DuF_z3tYq11Iye2D.png?r=301"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "15",
+            "type": "serie",
+            "title": "Café con aroma de mujer", 
+            "info": 
+                {
+                    "year": "2021",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "Esta reversión de la clásica telenovela de 1994 narra la historia de amor entre Gaviota, una recolectora de café, y Sebastián, un vástago de la aristocracia cafetera.",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbQIEZrYattxO7x9UJbqWciAlv9AmlRykSE99LuQKSzQYYGTMumOBe2sc27aG790eJXLyfkv5XrJn1M1L0ZRbDWOsHbPQBSSyaSEc3CmRSvhTlvQXwFsUVYD5o9SsBFsDXSh.jpg?r=080",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbulYthYkMvwJWtrFdAtqotGbB2qZUIu6KR81Usbf-sZ4xJz09KT-Z2A5x8jG073KEQ3MyLcvwWoDW3SavD_AoYcA93ZBzMfthFP.jpg?r=ef7",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABffLi5tAGlyO6xARrf-3B1DM4yHh_V4XPyCKLiJlysYWQhAHXHCeU-6RDKZ02ZSPwTEduUnnscKGo25j03pB7uZJiQ_8KBaC275F.jpg?r=504",
+                    "trailer": "https://www.youtube.com/watch?v=ufs8NhLBuCk&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXmi4amxhO9a3caXmPLhUp4ILrzxK6Oota0D3waOD-PE00zWpbnoZn8mT1sldsw1uPgL_xYwbC1RMo9Ecut8FqCpACBLFHF4I8zW0NHJfG5Kuzk1_uk9oUIl9zlEj6gxRswEwqxNPzjbPjLSHHKzyv17iL1kXmeec1Tbm9NEPyXkW_a2wLaVJw.png?r=3bd"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "16",
+            "type": "serie",
+            "title": "Pablo Escobar, el patrón del mal", 
+            "info": 
+                {
+                    "year": "2012",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Esta fascinante serie narra la vida del infame Pablo Escobar, desde sus días como ratero hasta convertirse en el jefe de un imperio del narcotráfico.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXhaQ-FT2MI2T9sX4w5vUwcFps_oUa0L6_5AXAD1_NrwdJovzg3KrvDyPS0p-VhvZQ8KDxIfa3FeC27lMQ9NKR5-Y3dHQKDZ_DE.jpg?r=ef3",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWvGAfJVrxysD_rfEJWDpbUUwmvan2ht85B3vrJ7BcTj88j6Yu1y8L4KoXB2VnOeVFTyLPD4P4z-55VnIqoAD9PvvQeehBesZ-iJ.jpg?r=f3e",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABekroYjBytloWOpV1La17GjDLbS1X0chWn9mC-AZLIHpntwLt8HcG4Cr4MXB9GItkq2qL6QzTlX6mTuXms1mJP_mFMKvbumIB8Ed.jpg?r=b69",
+                    "trailer": "https://www.youtube.com/watch?v=Fq5lrpOWy04&ab_channel=CaracolPlay",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaNdl7HD_ufK1o4IDjqsV_ek9hSlTrcaX4-iwoC54xiQ6XggHdYx4CfHtw7kN4Ye1NjVPv_DW1VhY_9srfvm_d_jhrq5IQyujbcO-xTYgsQS.png?r=db1"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "17",
+            "type": "serie",
+            "title": "Lucifer", 
+            "info": 
+                {
+                    "year": "2016",
+                    "limit": "TV-14",
+                    "duration": "6 temporadas",
+                    "description": "Aburrido de ser amo del infierno, el diablo se muda a Los Ángeles donde abre un club nocturno y se relaciona con una detective de homicidios.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABb9N-Q1vFj3X4mVXZ5UgMCM3LaW5_RFK-tOmLc8D0fPnwwilSGZK1mSvnByWCMMzRRcY1Y-PVWGA5UWQrGSwFgjIC5F7_7kV7LuVe30bCiMfuuun4XqvQXs7RpLN-fJ3DUWt.jpg?r=501",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdvTEbcqWIVSCe2gEgWXwpts5Gqa-BfAjo0_lIBvQXWJNMCwS3YbhkEXSs3Sr0dqqBR3b7XmW71P0fqVHcAjhIrQXojRChHCUFoN.jpg?r=321",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeFYtLG_NLWAlFT3z_IgAqvNy7j1-Y54dz8W-2vWI5pLl6ehREXrnsKhycRwArYvCwmOwFEwSoTDarrRXAmmSp01KEsNZCW3SR4J.jpg?r=f6c",
+                    "trailer": "https://www.youtube.com/watch?v=DaxEHaUNLp8&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWb0ofmkciLyKYwbwZNHO19lUnd2ekmu1X-9Ux9UxTDJuOZWaT1c6KLHVBCmOia3Y0jUi89bR0ZJ-I77kD6YZrtNDCCEUpmuLaEGd387qiaI_-oKJA2w_AW9mDo-vcppxaxS2xl2hkU5GGZdLJSJLkXnsOFA7KXgFpY8QTJysaz0DPrMnOLQhA.png?r=da2"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "18",
+            "type": "serie",
+            "title": "Hora de aventura", 
+            "info": 
+                {
+                    "year": "2010",
+                    "limit": "TV-PG",
+                    "duration": "4 temporadas",
+                    "description": "El joven Finn y su amigo Jake, el perro que cambia de forma, tienen una serie de aventuras surrealistas mientras viajan por la posapocalíptica Tierra de Ooo.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABb9DdrgdCIV0gW705iL5xRiXlsATw_lezyFRza95hf2V41nt2qxlwF804MKdjNNj18rFSZmgTwCss4vYaKQasiGPIr9oD2E9ff8.jpg?r=ecc",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYpVLVHgR4CGaC1J1PUnwVahxVTX4pS7vTkficlPF7i0H_cuNWqXNrav4zOL557YlyFQlPK6w935VVEiaNbONoT-ilYtqXjkK0gf.jpg?r=b43",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABd40Kgr4RE99Uy7X8mzX8EEjgWKERJk6a3KoAilGDcV3K5n90mF265LTi4-SS5dRoRtlHEgUmQWQxFAx_bCzLb4Z-rHd0Xr8hSY2.jpg?r=c1a",
+                    "trailer": "https://www.youtube.com/watch?v=7J9V7JxxA-k&ab_channel=MaxFamily",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABf-VMSWPHFEvL4YiMJpKKNm0az-WQS4TsJYOXB_bYNnj6yZdvUxQdVfaQTjw448u-K5zRQNQc_H50LtmvloB34ssyC6Ez7Ivto1vUG39gXD1.png?r=933"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "19",
+            "type": "serie",
+            "title": "King the Land", 
+            "info": 
+                {
+                    "year": "2023",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "En plena batalla por el control de una empresa, un encantador heredero conoce a una dedicada empleada con una sonrisa irresistible para (casi) todos.",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdsCrtvo28GH9x_6JmNSfS2yo9YwrXZbYmm8Y3Mdlm7UZn7hFXGLwMC0mM2AZkFGiyWKtYFZ98DTOmU5zXzQ-Fn6uwiYCyuKepUl4vC2AjY-n3FRvw2Xbq-liYtSqIA8Rx9S.jpg?r=b69",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeqU5y13eHjQ6rfOYnpZUi3Rs_tf8KhstGfq_LmpqDzeR0UmZ_Op7pNso4OFiL97UO-hwXayjoAue7TL_Okys9Q280u7XZJpbOle.jpg?r=834",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYoTIInsmO2HJnPJm2E8n5Fm4eQPUBRksw-Oib-qDEN5wQS0d9bTxyY1hVlCvq3kt6fNBTr0IweXAb_ow7r7R3xv860TW_pv3LqN.jpg?r=8c2",
+                    "trailer": "https://www.youtube.com/watch?v=AGF16szMOmo&ab_channel=NetflixK-Content",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfknkQ8lyG98CW52uvu5jrsYJ67bmEFfuKL4atPzrnAkw8Tub-Lu0-zOqbib-IRY-pTYpsyUuRxZSBIaz7sS1Y_WkkkKzx5AizrOpQ8gZqJVAWbvCQWc4EifgIN7IboVq5hKjn_G6hrnBI1JnZ7_RNML4XuQ-4otts-nmupMMFo7p0aRbc_xWQ.png?r=151"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "20",
+            "type": "serie",
+            "title": "Breaking Bad", 
+            "info": 
+                {
+                    "year": "2008",
+                    "limit": "TV-MA",
+                    "duration": "5 temporadas",
+                    "description": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSYXAZiGR-j__NqtcNWHtgVNbdwFdB1V3mXP2J5ec1qB3cVJZYpfzYxsVhB8mBUdAoRK1hT1vy5q9Gk4LaWaGUlEOOUK84yxyjQ.jpg?r=9ff",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSg7h75hca17p0a2F9a3GImLpvoBQZs0VOGF92IxCwXiTwGlq_tEVLViUEQT0YOjh1MCmCL9Uhmnw_nJgvd_FGahW9iIpU9WYIiN.jpg?r=e04",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbFI2wcwiGkHDdGWaw58hWgLETOBsbqqv6GbKnZFn3s_Y4fjw0Ys9DNYD5txnfV3oj9tgsBeaSnPcBOwQqQnpHVqHeQr9FtvVzaL.jpg?r=776",
+                    "trailer": "https://www.youtube.com/watch?v=mXd1zTwcQ18&ab_channel=AMCLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeJo_eP3qXqDWnaRWhbGbLu1VN_yACCncu6G7-CW4pCSzZD74lWxcVvYw4koEFN9bmO2PERuTLR7KiXVURG1MSTFXlS9GTB0selwbgbCBtTR.png?r=295"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "21",
+            "type": "movie",
+            "title": "Caracortada", 
+            "info": 
+                {
+                    "year": "1983",
+                    "limit": "R",
+                    "duration": "2 h 49 min",
+                    "description": "En su ascenso en el negocio del narcotráfico de Miami, un gánster cubano se sumerge en un mundo de adicción, obsesión y crueldad y paga un alto precio.",
+                    "genre": "De intriga",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcmul2H27I5fpz6HwYMsM0B7DmbKs7hn8aRJGqNC3Yr7XtM1rA63zuP8ye7v3F5i3fC6q9R5T-cjcyhN6xuWZmcrxoxd1U5jobw.jpg?r=d7e",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZgTtJSyei_ggGY4YubgUvOAOYuhPzeJok_6u6qh37-V4i7xcQt4zI84WMh31vAZ39DYOoGhEg4Ss1EmC0W1sNO-wfTa_eGouECu.jpg?r=fc9",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABab3SjoIFgrjzMHxI61yDAnAr83roXfCbdY_0rBiqKMZJa9qpse0a6Fecsp0PKTNLR6GBZiAFF4z5G-8x6dYcJ6JfnliFhXhktH-.jpg?r=b57",
+                    "trailer": "https://www.youtube.com/watch?v=vREl66xmXsE&ab_channel=hollywoodstreams",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTUAxFSSDOINnjnFvTfu1vTmc1N3jxsVNldLQ3FHGKp8h_PlOI73g82CNrnaBC1zujN1LCnGI48rlWRUgvWD6vMTS75rbWZHX8zP3Yh2Fj_B.png?r=344"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "22",
+            "type": "movie",
+            "title": "Corre", 
+            "info": 
+                {
+                    "year": "2021",
+                    "limit": "PG-13",
+                    "duration": "1 h 29 min",
+                    "description": "Tras años de aislamiento, una joven en silla de ruedas comienza a sospechar que su madre alberga oscuros secretos que le impiden alcanzar su tan ansiada libertad.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABRy9EH9C8mjRFn1we4Z-hkBmQJcldD5tKR1cpIuzQIt4CT_cNGe4AS3xb0CGeayyqAopsfOincSx7D1dcs1f0Y7fwF9d6DWPsK7ADIgRJ3Ly8NbgNjxv1_c9dEBa-b988xiK.jpg?r=125",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTNunJvmSw0v8Qd70e-IrDI8jxeYrB7K_WQLUivGI_9GRsBehAVvo2zYxDPpkrApsaXRwU9pNr52FOEfWGukVUJIHpNsjxwSDna2.jpg?r=e53",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQAwiMNqeni2EXSsCzYop-4WsQ4-NSdb0f-wuaY6_sP3GMAYrqgj0ZLxgYIoLH0PF6cLJ53EQ8fQDUA6pEgP8Eh3hhFZXoTeoFqQ.jpg?r=c01",
+                    "trailer": "https://www.youtube.com/watch?v=oZMPvPfk9WY&ab_channel=Coraz%C3%B3nFilms",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABan1BAGQrcEYD1lfX371nzrrJHIuZ9CzL09rG9bcmMoyIlgd30P-pQV2BjtqZIK0heqQxtsJ0zDWoxy1Hmkf8wRvidMoM-JqwrHG5BlbwCXdA8plIz5wkqTQ0B3JGyCxuioroJ1arvpHx2yCaIfvIXsTToKIfCOQuDEyAs8fVAg7JRkZZ8z_tw.png?r=bc6"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "23",
+            "type": "movie",
+            "title": "El planeta de los simios: Confrontación", 
+            "info": 
+                {
+                    "year": "2014",
+                    "limit": "PG-13",
+                    "duration": "2 h 11 min",
+                    "description": "Una década después de su escape, César y sus compañeros simios superinteligentes logran una frágil paz con los humanos que sobrevivieron al virus simio.",
+                    "genre": "Sci-fi",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQ1cNonwmtuIe0eV6UoDYbsZg2F6vZxcQz-HTxZJLd6FT0T4gTzBrVIH2UjcRGJrWufBrKAWBS9xvU3prZO3GOd_MOdQOvRRnrY.jpg?r=5d4",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVjeGHL3TtmrUV5qyfAps2aZQ-BcgOIN8lQhsw_THsUQgM3Dc2F52VikWo0HTbSvUcS9_2lX3UY1upGrdNyiHhzDC7xwABIRjlMo.jpg?r=42f",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVjeGHL3TtmrUV5qyfAps2aZQ-BcgOIN8lQhsw_THsUQgM3Dc2F52VikWo0HTbSvUcS9_2lX3UY1upGrdNyiHhzDC7xwABIRjlMo.jpg?r=42f",
+                    "trailer": "https://www.youtube.com/watch?v=l2f7-g4DLsU&ab_channel=20thCenturyStudiosLA",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUQlaA1C-XuPIw_MO1SJj8VjLuoKBmbXkR5ooBetez9aBGFkK1LBTz2Is8hlzxBOF5ZO8Jaahbd7PU2vXgKbecGNIePAg0p8JgcFcRgAq08B.png?r=56c"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "24",
+            "type": "movie",
+            "title": "El niño que domó el viento", 
+            "info": 
+                {
+                    "year": "2019",
+                    "limit": "TV-PG",
+                    "duration": "1 h 53 min",
+                    "description": "Un chico se inspira en un libro de ciencia para crear un molino de viento que salve a su aldea malauí del hambre. Basada en la historia real de William Kamkwamba.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWM6BTjRWiqFHwEz-NcBt8g_3eqUZu1XL-iRVqMc0lxiRrZb9mMRD6lzlKNu2TffwUMJDHu7tT-5TTHR7kcaoeTm-IyB0zghvg1S4BeJ1A-johv_DuzY2JC_CwsRcdMYrIzK.jpg?r=0dd",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUTF2zGBqG0q6d_8KvczrHpu85saBZWOteqXgHeWl3wAP06gfc0zaf_D5ecgp3aWcv-fZyPmgOTVzKKUo09kIGTC3pB84oiNZf2b.jpg?r=e13",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf0Y6QmDdAsGZL3su5YCXzPmuyrXPG2BpT0uZJlKtftMUj8nt5Mk0YkL8_RCMcVjrH-JEkjQLV20Dae0UGA41l2Z47x7KudeCEeq.jpg?r=4c9",
+                    "trailer": "https://www.youtube.com/watch?v=nPkr9HmglG0&ab_channel=Netflix",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYq_u6dPyOOYJ8zUyLf1m_lklOFnCusXQfsu_UoJy0XmFjys9BBki-NooUZ828tJ8AD0ITDuvwSnt00Tic2U6-6kRnysa5tRQtQTpcgyU58IuPrmFQ2SqKo_wFemKwhbpDsw16W3ewCxrWhWR1W04AFjAMX07z71xqJ4M0otoLQ6mjyuDgQR0w.png?r=012"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "25",
+            "type": "movie",
+            "title": "Pinocho de Guillermo del Toro", 
+            "info": 
+                {
+                    "year": "2022",
+                    "limit": "PG",
+                    "duration": "2 h 1 min",
+                    "description": "El ganador del Óscar Guillermo del Toro reinventa la historia de la marioneta de madera en un asombroso musical con animación cuadro por cuadro.",
+                    "genre": "Fantasía",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABaLb_eVfOUCsG5QnFGBOTSmAqarTmWz3I9SdKhXIa5VjVzzzaAhoRJev2Q0pypo038aSz-WNZOvCCzHxKhS7vAH03ObIe64tidJdGgl851DA-_2z0UT0j8sz-p6bRDIMumcM.jpg?r=065",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQ5m8FowkSHS6nzOWhOJ4bJugsO2Wmt_N4Tp_I43KUZZ_06JDEar2m38X76wN09ZPiXnnb0bMppXPWgeTLmCsgyI6QXOqvUetukY.jpg?r=9d5",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABclC4SZWYNQVDU3dNAJdmJ4r2Ix4xQYUYeopSJZYotEcJenrpjjPgSolBe_BLgSszDr_iNClo8WD2mM7c6SaURKj9srcYQDCwFwu.jpg?r=73d",
+                    "trailer": "https://www.youtube.com/watch?v=-WgZ_IQU0Ks&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABTinp56amXMvsCVKuGtGF9C785ikFmNu7sYskvFgSxInED7yxuwHc5Kh-42S3ze4blQISHicHSYXAJpLKnIA4roYGOul5b0_VC5TevLdcW53ZBCGvzr_PVNBsIqU2Pq8TAZmKj4Jpm0s0DtEveE-Y8a6DwrKgty0QzcjYFlPd_lqUg5IFu3Qtg.png?r=85f"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "26",
+            "type": "movie",
+            "title": "Garra", 
+            "info": 
+                {
+                    "year": "2022",
+                    "limit": "R",
+                    "duration": "1 h 58 min",
+                    "description": "Cuando un desafortunado cazatalentos de básquetbol encuentra un jugador excepcional en España, se dispone a demostrar que pueden triunfar en la NBA.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABb3i1_qZH75CAQFW4t1QN_NOKNPxKOE2YqpW1zxUfCrNmobCv9UubfMTKMx_1O-KdS4RyVWV15f8oRsuGUIYrOjz_MSj6DY5kSVu6o1UOHeLeRtZa4XEBe-8Xo0x9llrfgbi.jpg?r=fe2",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc3cixbeswYdSKKkPFd04akvgRimwOVSlhFgUih3XNAi7bVVSMcNB4qnNsBloIz5vFpObpBuO1b8vgVSq5ohBqG2E4tPEXW_CV-B.jpg?r=80f",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWp_NkTK-zTEEVf3lt6uRZ2vyMQiz6vCKqS6HpJhyxc2i7wGp114npudTbM35vaB-QK1ONdJvzbBdGPSGIfmmMs-SUw8IbMqBfQN.jpg?r=8ff",
+                    "trailer": "https://www.youtube.com/watch?v=lvRWUIUoaqU&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABaqMqlaRlT8uJDZbytBu_BfN8xRxOXBAzLaF2v0SHQIEHQBA7rMy6AtXehwZKuqgxHyS1B2WIzkZ8Xqs4ZmHommB-lv2E2m0iTt4sYDm-knvTow5R-KvP3yVmmiytHTp_NEmfuxllORXPp2aiNE7bweOiUE6sqNRip5yw4HLzDV6Qk_PCzRA6A.png?r=bc6"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "27",
+            "type": "movie",
+            "title": "Secretos de una pasión", 
+            "info": 
+                {
+                    "year": "2008",
+                    "limit": "R",
+                    "duration": "2 h 4 min",
+                    "description": "Un abogado de mediana edad reflexiona sobre el romance que tuvo de joven con una mujer más grande, que ocho años después termina enjuiciada por crímenes de guerra nazis.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYG5wgMb4rFlYFP0JPRGSgN9B--Od8BPkGy0ME6xLVEtjJGLKjbtov35rUQF0xfGSRGs_IOLa7ug4ls6UYTNUrMDF9BgT0UMOa8.jpg?r=7a7",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSwKbXV_CejVqfLYfLI-3FtJGR478Tmq-CKn9ZD74bk7_gCzONwdcDEgrd0rbaKCr8ZkzXJuuZLFeU18UUd6s3GLt0AdQD4lxfZr.jpg?r=402",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYRAqY0nDVi7eW-zquGgvFWirLJCujL_1ZLXUZ4u4XfRzvYBP63bLMaP5mjgC_Z7wmp_0g6mbQpgXW5jUnZe9mzDd-uQINrrMrJL.jpg?r=6c7",
+                    "trailer": "https://www.youtube.com/watch?v=AgaTgLo6bWI&ab_channel=DVDmaniaMX",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZpFjjQeZ2OaX_LCRslwWylH6uiN9XeYNYwPf_sifwx0Bfjf7rt_xgJFuRYffvJoR1tugWIt0OaoLRYw6lZclaDzZLkp-IrPT2Jw02ib2STs.png?r=220"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+
+        { 
+            "id": "28",
+            "type": "movie",
+            "title": "John Wick 3: Parabellum", 
+            "info": 
+                {
+                    "year": "2019",
+                    "limit": "R",
+                    "duration": "2 h 10 min",
+                    "description": "El mercenario de élite John Wick debe enfrentarse a todos los asesinos que se interpongan en su camino para retomar viejas alianzas y redimirse.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcdprzF_ZK6tLW_kl7kb2UG7WJWSx8q6eYCnuB4GbBS8h6bGr3soFl2ecTfyHkExhnjvKMP5soUWtk3F9aMIh65sI1zGIk6aSSE.jpg?r=c62",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVzNGvGMWLBuX2lkOWtrF4qLRWvy-bR6CKcXPCLzuZkSzC68hzxS1qRJPe5Y__g0CvYHMbdDOfrPm3Ty2Hcm5tsG5UK-TsZDXqgs.jpg?r=602",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTZj6FC4w_YeOdiSGcUPjOROrqgm-RLFQojZcJ5k3BVn9VTeV22dXtKQzxbXttM4ViU7vIpHRCI-CdaRwqa1Q5CT3kM5ED8UokSH.jpg?r=600",
+                    "trailer": "https://www.youtube.com/watch?v=M7XM597XO94&ab_channel=LionsgateMovies",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXNm5pHEfL-xieG__6vsI5lt61Sj86S56I7r4XjDgxYISiCzuqIbFvlQAKztMTPRnrxwtHuc0Slg41sLYWluMluQO994LsFnXSc8bny7oOm2.png?r=229"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "29",
+            "type": "movie",
+            "title": "El cielo sí existe", 
+            "info": 
+                {
+                    "year": "2014",
+                    "limit": "PG",
+                    "duration": "1 h 39 min",
+                    "description": "Durante una operación, el hijo de 4 años de un pastor abandona su cuerpo y se va al cielo. Cuando despierta, relata su visita al otro lado.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABU_-7ioo6VXGcbrbBwdSFjl6nqxbvbXjlGz35mntm-9bcgwZTe-vqTKx2A1S_P_EjgBNOZDzg68Pj_rPR8QYVAk47rjzY7mdbBc.jpg?r=dd3",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeKgPd1yQQilOrCNBoYZ4pJSqHYryb8SkcY_yQETcBHV10eMHr3sWntdADvWHKRZ0eVc2MBP0IdBdPyMJ1LhoSka9zpY3p2EwaIc.jpg?r=ebb",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRA6KpeOFAHUJFWsAbYDufozqZ8-sK48eOXOvywC2lMmCDsL1_gWBMtaJO4C3rd-x6AsxU0HptZ-zWcxIkN10XdOoZdB-ksktqmZ.jpg?r=2af",
+                    "trailer": "https://www.youtube.com/watch?v=ozBo76DTHd4&ab_channel=CanZionHomeMedia",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABay8JTFtoe8pqSboSH3ELwd-IaMFEv0nDntxQNVHOGPNaAobs4zozsVQR3IRIHJvASaRTzlFBDbKGNLGW1PsG29jaAgCxC0AMuo5sC9qBe1n.png?r=c98"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "30",
+            "type": "movie",
+            "title": "Paternidad", 
+            "info": 
+                {
+                    "year": "2021",
+                    "limit": "PG-13",
+                    "duration": "1 h 50 min",
+                    "description": "Un papá novato y viudo les hace frente a las dudas, los miedos, el dolor y los pañales sucios al criar a su hija por su cuenta. Inspirada en una historia real.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQF4CcYm14V-SV6n6oJxlPl5Js6TDYoQH4tsOkaO35tgsPeDd8p1YAJPB6ND80fWUwD105Z8U34a7GokS4Uo8OkCd4i1NzDcG7Q77Kqh1Fhy9TY0HcSmtGh0oLdEgiQFmnz1.jpg?r=fbc",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWwPtO5Bf2FQ1v0vLQQ_TlQ7uVG-8aHK13y2jJeez0M5p2K1_YATQoyATPSIyjxiu7p1zpV0tlX2z2eqysi2HkNm7yB8kopvv_lY.jpg?r=686",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUjcaeSTHPLFYFCQkzxAJpAx3ezDKWm1dizN5DexYvg5t-QIoJeS7uDwPApgcQ_QliF6UcKhH07s8lfDa85K-IMUKEGmZAFlPoki.jpg?r=689",
+                    "trailer": "https://www.youtube.com/watch?v=Z6Yk2hlK9gQ&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABcTTvIIXfzYR11ZLzXZGQ-LZ4Oplb9mBgFwcMoJCtPTPqa2O9Md_CNlfOQBXhVDzxbw0a8b3_HC_kBYrX4fHesOBtUOeyJH1WHKZVuLvig5lc0A6Nt5DEs-J1891y5vbRXGsnsZCyz9V2UIsBIT9vLD_1Du1wBXKwAHzD24JWZoUjmOOxOvktg.png?r=e6f"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "31",
+            "type": "serie",
+            "title": "Peaky Blinders", 
+            "info": 
+                {
+                    "year": "2013",
+                    "limit": "TV-MA",
+                    "duration": "6 temporadas",
+                    "description": "1919. Inglaterra. Thomas Shelby lidera una conocida banda de Birmingham que avanza con ferocidad por el bajo mundo.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSWCOccIMrll7x7PfJOWBYGdt7F4CtjC-Dogb2ubADxWjLPizopYbfuWzIr7LpYuXmyhHdOn6h12X3UBc3By2gZBMXL-R5LLoXxhDKJoPFQw8Z9neakVr3qp2-wahiYMiaiP.jpg?r=c0e",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfiqv2Th67pFLpn6jzARZGNhBFTtaTfd4i5KPN1-WoxqDUerVqy4i7Yw_hRk146SO2KGIjra0RIIuHbv8oZ0m9LV5YZItZygejeC.jpg?r=15c",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQr3KP5nDaBi4Q6q1XI2Q9BoptbUfDx4tKls68OKTkFS51hwHO84QdeIXn5jypLB6yoxeVsxz-QRrXEt8khITCfYdYwZgu2p_L4r.jpg?r=07e",
+                    "trailer": "https://www.youtube.com/watch?v=ZHZG6UArE3I&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABamciGZuq0LI6yciaucIMoaraUXY2S2WKtU1ELnsKclbv_oEPdyvQjPWtWVNFDdv-pfo5hWFZ4HF1OGsr1Wu-e_6sRmV-3pcBUWdGJgvNXlx5bDJyb4N2MdbjgvuMUJ-SutSnAhrjcU7zoqrz6ej0zphABStvjiivqcUemDnRhN01nqOv6zCSA.png?r=f38"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "32",
+            "type": "serie",
+            "title": "Stranger Things", 
+            "info": 
+                {
+                    "year": "2016",
+                    "limit": "TV-14",
+                    "duration": "4 temporadas",
+                    "description": "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.",
+                    "genre": "Sci-fi",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABUHcKLsIF5kJTG_M0bnEhAkv3G2AfhP4uvjZ1kD1x4hz8rEL9TFj1OVKOQDVCs1hvl5Sj4cmsuJCeumJkfJkLYbNnEZhXWkAYmEEfp21CTCC97k7mLY47GN0wbvciqroTy6S.jpg?r=c68",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABer7SeWc6FvkBqWtk61GwL7rshAEVCOARQZVTEJGnLXykYBlO4nbbr6gs7M650BjULuaN6hucXKr5xY2iqPAajrxXd70HawdJeuD.jpg?r=608",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXdoFBGXx_gQywX64x9I5gEetMlsMB-wM_vZC4VBpdoqOxNZQxTi-foCgZ_kGXllVTLiZeTPpHuD9UkvR9frMUdFRHKxVrAYUMuS.jpg?r=b45",
+                    "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU&ab_channel=Netflix",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQm_jNTIP_EG_W-Dq8lqHqdmvtfQkuOLKqIDXFCDjOOJFQ-pmxc9kAePDJrq0zyWjloKidKg-R7jQnvHQcR4oqGqLasAC66mQJnk_SyLqdSw0QYnAzJoszL6mlC0WGflLTviY_28SG_gDr-6n4kejdpEAO59gA3BVxxEVdT1VcA5yBLdRzToKQ.png?r=23b"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "33",
+            "type": "serie",
+            "title": "The Walking Dead", 
+            "info": 
+                {
+                    "year": "2010",
+                    "limit": "TV-MA",
+                    "duration": "11 temporadas",
+                    "description": "En el alba de un apocalipsis zombi, los sobrevivientes se aferran a la esperanza de la humanidad uniéndose para librar una batalla por su supervivencia.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABaTpyiCPwQud2gAtvjgDwXabRK8hbbyjOXH6NMIRaTGgjgWAA08i-Eonz1AyP00-DVJqSiy4e_dRjNUv3BLmjX9Xwr8bpa7JJk4.jpg?r=6f7",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZV3oc2OQATQsy6yeUeM9VHELEgvaEbtELYwn2Q9COq2u9O0nZnK4xiCe7UomiMrvgzeCLEQ9Z-bKDKf7v82p0_dsj9cHWJcwSLv.jpg?r=10a",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQWFZALraaQo7u99aD4P3mq_Lfw7E5Lj7ZZAMUWY4jsBfCE1b8MRP__EbX5xklI-e9De6IvPxV3VUwMzVWD7MnLZ-XdSLv7Nli1j.jpg?r=6d9",
+                    "trailer": "https://www.youtube.com/watch?v=sfAc2U20uyg&ab_channel=TrailerBlend",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVv0XDHoUpKDetd7PkY4eCXVUAohaI8Tx4IHCIDV-8yPjUIFqZkdFj68INOLigYHN_A7B8mzBx_Gw_KyK01AzPWQf1fhv8qQCvmkwSP66HKw.png?r=377"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "34",
+            "type": "serie",
+            "title": "Demon Slayer: Kimetsu no Yaiba", 
+            "info": 
+                {
+                    "year": "2019",
+                    "limit": "TV-MA",
+                    "duration": "4 temporadas",
+                    "description": "Tanjiro emprende un viaje arriesgado para buscar una cura a la maldición de su hermana y vengar a su familia asesinada por un demonio.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWENl1BUk6Z_XBbIaLBWruFcv-m9NV5Bd5mUCE251Qc1jSyLNhuNsfB9l4sQzBiXoocDEC6wIjJJgW_NzscXDxzKvLvIt2FIzTzvtPQbP68Czoe3dXN8mezXy1oeM73IpU9Jpwb0nGHVVuegr_laBA-k1bD6L9BOTgwhy9QxeiphtCez3fwGZOkCElHkFgfsyzoIczyEvCyuXwgppnDeWCTQRXMIWK-B9HzWnh9pn2fN1zqMli2JUoMQisjwXbdKyLgvfgezNGWJOUCoh8IzNiq26nUQ7g.jpg?r=503",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeFczTTYLNB88LEPImE-iiCD1NhyhYVsXLx3x3YB9A8vqW__lG3vCjP91LN_j5n5TWHo0ycgPgwOJ5oTdV0UYb9cmd3o1TAAh411.jpg?r=9eb",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABc_IAP39hj-kZ8BSec3IQ3zMRFLQvuxISsTH0WbVmISwOd7_gNPUA19gEwg5EkWJFdPrVyeOrDxhCFi08qjHYzABVNdsJHmlQjpw.jpg?r=920",
+                    "trailer": "https://www.youtube.com/watch?v=C_pKddExbXI&ab_channel=CrunchyrollenEspa%C3%B1ol",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABed4svhwVvcPtGaT1YJYe5Gf6cGRr3bGu1bLkkd9wpa6IxaxBQDjBTKnhysueozXY69uADQQy-7MVIM45YfhXeLbNAaz8_mD47nAclavvvz-.png?r=4d1"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "35",
+            "type": "serie",
+            "title": "Merlina", 
+            "info": 
+                {
+                    "year": "2022",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "Inteligente, sarcástica y un poco muerta por dentro, Merlina Addams investiga una ola de asesinatos mientras hace nuevos amigos (y enemigos) en la Academia Nunca Más.",
+                    "genre": "Fantasía",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdj1i4raASn-Ucrj6ujqdHUU_REBvvJVWlRy6Vbfm-Xjk2WhGSC7D_K22DimngUg1VDnhYKexuhejF4AM2ym3z6mmhVdWByAYMP22PeCC_21wAG8cnH4XBhhSU1DYVrgrCmF.jpg?r=cd9",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYZ_9Wml838MQOf9pWOOVLn5TMejp-qMZ6eYoPf-co0gIJzlio8SGd6rgcPrFJPMGMutYsWMoXPm30p-DCNSLc2Ug_I5TDscFq2E.jpg?r=615",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeMZkNnHuV8Y6pFrWEjxEZG8xvjo-JqEJzrBVbBo76pxXC9QOCBcJZZU0KjD8hONdRR6x9QAGgpUZCLr0ljFcZlBS1gjBo-Y5D6-.jpg?r=570",
+                    "trailer": "https://www.youtube.com/watch?v=gmp7LTKnVPo&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABcGdXWYknkc5b6CBJvFEi9s_w9uVzcle3n9oOzGeuh3l4BOdzf584bS4SOU-NynWWou2sNIpMZT74pSY2riFNJVkT6SRQ0zBEk63y8E8PvZZ9UVA2PpLV-sdZ_2JjJtecd3gkllzW3uX9ypgkmf2Oqtv6j2JvCPNrs5jRrSWYSNkpseH-dw0VA.png?r=15a"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "36",
+            "type": "serie",
+            "title": "El juego del calamar", 
+            "info": 
+                {
+                    "year": "2021",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Cientos de jugadores cortos de dinero aceptan una extraña invitación a competir en juegos infantiles. Adentro les espera un premio irresistible... con un riesgo mortal.",
+                    "genre": "De intriga",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQFbjH3cku3oQOx1C53qcVwVtV3JAC_qaYGh8yc0u0Q3UWNcRBd5f1oYJGRmjlN3HZCKpNrC9Er3QhMH-JWBO9MgK2soxefxCj8Vufl_2pfOeo0FGUfnRil7L712Yx7MzDJM.jpg?r=c30",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABW2vHT_kRiIFO3spVWZwdWkXcxqJNrqkwN9mRw8q-yiY0hi3ho64Ce5nh3QXG4F5oaEZUDNYCWK8y-aKlaUMEsTmOd3mOZwIfvEQ.jpg?r=0b1",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABe1fA_q1l9tqtFkCK7xxnTUkhV3NHZDpPy7yF-YgiPUDPzGfeMlcRoKXiOfHl2UVx9oINILikJ1NaUYxpOnGKLAv_f49b5p3jyA7.jpg?r=002",
+                    "trailer": "https://www.youtube.com/watch?v=eB5kCNWNWOI&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABT12GS3f6lUQRrbXJcVh0i91YarnJjGJ8nc1MN_AaeY21sv4fsU3yD83amCaOwcovV-iRQzK19tEJTkRMa9lSC4bDjxeNnxLI-2JXsU4Z7MJF5ZXZtQOjfun4YgoqMr5cUYULKE4HMrxp-MhCuTC9huZaSC4aa6BEPEGilCsujt5-Ce5jS5d9A.png?r=a96"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "37",
+            "type": "serie",
+            "title": "Cobra Kai", 
+            "info": 
+                {
+                    "year": "2018",
+                    "limit": "TV-14",
+                    "duration": "5 temporadas",
+                    "description": "Décadas después del torneo que les cambió la vida, se reaviva la rivalidad entre Johnny y Daniel. Esta secuela continúa la historia de las películas de Karate Kid.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABegodWba_JS3zesT5P33YOJzt1RyKKXjSRcxwEroG8p5OqaRxdEwFzU_imANqn0ivL-XmAf7gDJzofiBnv3Z5AR_yQgZXbWOuaxdh5Oe70KMxwufMlXFVQqKSoKAQDTx-qDs.jpg?r=923",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZuPqFzbYGyLUm_fyfizqdlGpS0gJw0xhpA14RjJOPXNQuwvyu59H9Ko2ylt3vsCMB2tDF18HNoPO9EF_L6dLdu_Rs9oSHg6YoUT.jpg?r=b71",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQOCBP455Jquqbe3uj-2nEXuBf9UfhhrmvkcEYG2UN9L641zOZ69QVbKSeYAo2G7BYfGWJ7PtaCtpCpERR1qED_YyIbgLoNcl49Y.jpg?r=9f2",
+                    "trailer": "https://www.youtube.com/watch?v=ZjUzMd6p4R8&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABX5v_5MKBKA6qcMAaG-QWYIVv4JlekdfrLJHxdLceW2w5ZnLSw8ezxzqS2JMyjBsMcgdyHxTIWZbWIMjNpmRF0WpSikPLnhk0JDIqbTmo8IsYd3sYDKuHNHWSeSXPn9EiyN92fBx994QvUCyWCtdB-Jw8jrO1MVZL2_9G2FWvavDjvj0m4gw5A.png?r=d44"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "38",
+            "type": "serie",
+            "title": "Woo, una abogada extraordinaria", 
+            "info": 
+                {
+                    "year": "2022",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "La genial abogada Woo Young woo, una mujer en el espectro autista, enfrenta desafíos dentro y fuera del juzgado tras empezar a ejercer en un despacho de abogados.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYNd2IPRwveqVxsCKkX8u0q8FudMr725Y7QRm3V_JFUfIS6AVeONUiIdLPo_gENelQeErerBMw5cfUrkYkgok-E7aOzFpPN8J4VmA621jE3EEJmi_d7ssxlie8DgjT6pPaL5.jpg?r=72c",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfTgFyCbGK3DH80FtDiONt7qQx2C1AuWb_WpJQ7f0qyMyk-v_iJ3u4vugVGJllIi1iqf6Xnwv85JlsURR-ZrH9GlhDgJuQB0WXsM.jpg?r=a5a",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaJZ73NweZorwDdxY0JYV-ksiEN1Cfzf5oVmEkcmAWI0zSSe4Y6G6WmcYQVM07hJGDUNZN0xam_R3gImV4wy4ZfHIlmW_pxn9NGo.jpg?r=049",
+                    "trailer": "https://www.youtube.com/watch?v=MxeXECe2t-c&ab_channel=NetflixK-Content",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQdeEE9gC7Muhgx1mpu7PuZVM9CeFFSx9a-gCYZ2faYyBn0vOe3UTm62RlxiRVND9xMZiEw1hRV0aZ8ZRGy_1cHkz1DDVLXw5STsYyijIBC1kmctYxK_30U6MoZyAy13hQNFNSHI1Ue89nqPa3wcxk2jzNWUOq7LVfs1kmp95mo-a5EI6EXszg.png?r=d09"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "39",
+            "type": "serie",
+            "title": "ONE PIECE", 
+            "info": 
+                {
+                    "year": "2023",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "Acompañado de su ecléctica tripulación, el joven pirata Monkey D. Luffy emprende un viaje en busca de un tesoro legendario en esta adaptación del popular manga.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABfXZ1RjpwsvrwiB42sUFc0MbUsSZ45haoPM5coiR3_hqHVVRJQFSyGmhUjeIHCpctbN0sd1c3TsG1CD-zp-HZHIrBxp2m1NU2Z0Rr_GYp1FvosEyi2xJx-w79vxraWCWNyPO.jpg?r=4fc",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYvcH5XZXrAmpWYoTMa3AtaY7YddNIj_roEK7WK2gVOxl4RJaebRRuAmXtgJYL0C5Xukq3yBXyLuNLtwI-jF6IwzEKV-_79uqLtQ.jpg?r=0a9",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUO5oZTgqdLOE1sKmWvGSyEsGDBAz39MZZMDCJ2cVKgTXD4k7r9A3H28AMVoVWVApEZtXIxWB7WoVPnuoRGHxkeYyFFK7wG1vgsg.jpg?r=7c0",
+                    "trailer": "https://www.youtube.com/watch?v=JoO7TGG2Kms&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZF2np-vclRknXYCazZ7xcuOG5Jm1ZX3_vdaAuDtfBwn4vbLixgSWGCI8zuQXn7gGtMytioPshar9V5MIbxLhS4GOle478Lr6Y4YN9Jr4GZRrqNnuBRM_kWm4FrSz6oCe9JdIhiUoydNmVaxaUbRBZggaSUsRuoXDImiSgMJmiWqMGu0XRqGSQ.png?r=b2a"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "40",
+            "type": "serie",
+            "title": "NARUTO", 
+            "info": 
+                {
+                    "year": "2002",
+                    "limit": "TV-PG",
+                    "duration": "9 temporadas",
+                    "description": "Guiado por el espíritu demoníaco que hay en él, el huérfano Naruto aprende a controlar sus poderes como un ninja en esta serie de anime de aventuras.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbhcM81QsfQiJ037DMq1U-7hM_cEGJ19ZaBUgIAvPNZw6aUYCSDAAzUqw_iX-JC7nb2JpvmT-ryYzfHbPdPOjgOn1YVXmbJZ_z0.jpg?r=256",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRfoktZLfnfFC21Y5UAdxQLmt4c4PIZBBBWQxBIKQpv-XcFB5hDg-q5N1xrGd6tUYbK9cRD34r3czqwDm5FDhGDdrBoRl07QFxeb.jpg?r=cbe",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVm1DU0HDDFlmVDm2uLHsUCmyuR_tIEbWN6Ho4tCv4K8Fm_EdG3-ClHvB6xc-91lkAao8oP3Vqx-5iIQMC6QYzVkuLDO9HV1d5Om.jpg?r=1e5",
+                    "trailer": "https://www.youtube.com/watch?v=QczGoCmX-pI&ab_channel=vizmedia",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVNL5fN6-i_Mhb0DRJd8NZEt1Jbqfk4okUtjYusdP3xcQP_KMwArnOMorIGWzo1WY835C2Tra7w0fWEQlgppw_f5IkrGdaUKLI-XlftXkmhk.png?r=3ff"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "41",
+            "type": "movie",
+            "title": "Trolls", 
+            "info": 
+                {
+                    "year": "2016",
+                    "limit": "PG",
+                    "duration": "1 h 32 min",
+                    "description": "La alegre princesa Poppy y su gruñón amigo Branch se embarcan en la mayor aventura de sus vidas para rescatar a los demás de las garras de los hambrientos bertenos.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcUYN4dt3ldXWkz-GXp1CCuSkCoLhYxvFhgq96XZoubJzre_HVpCLOtQNYZDxB0McoK7MQx-wovBChTYnyH4DkCJfj5d2YwoJb4.jpg?r=02a",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcSKhhFz18Xu21AM8Tlktf4hOqKNicHRwMtQfJkFt-7_SGUyj5Dvj08AXGkj0NmGZgqDYVaA_bcyhRbTa5AxgNbwQZis3A--W_Dz.jpg?r=544",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWE-sOumlwqu6CHZDgSNjfAUcJ-IyFyjONQ_ZYaAfsu7XAjY9IVrJBnOP5qMdAm7X1yILSOoUGGgxbWjnFBwjQc9Hb_jDhEDfMWg.jpg?r=70a",
+                    "trailer": "https://www.youtube.com/watch?v=xyjm5VQ11TQ&ab_channel=PeacockKids",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABa4Kx0lHafajc26-GZkOL1jD0Aa9S9ACEqCHL5KsUpQeohrJtUuUYLfWGJlueiZefGO1FCosWuutKTIac2IdPcCC2YCixW3zDWZo6kVEG7T7.png?r=f52"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        }, 
+        { 
+            "id": "42",
+            "type": "movie",
+            "title": "Quieren volverme loco", 
+            "info": 
+                {
+                    "year": "2005",
+                    "limit": "PG",
+                    "duration": "1 h 34 min",
+                    "description": "Para deslumbrar a una madre soltera, un audaz pretendiente se ofrece a llevar a sus hijos de viaje y se ve obligado a soportar sus desquiciantes y endiabladas travesuras.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABRJFkYuvz33TGGFiFVVO1adNLU_w7wdzFuy3NZR_-wsWAbXCEkMkuIhZsTxH6T4hw32b5vAxJqbU7QE6Iz7qjM6zrw5YEP5auaM.jpg?r=c24",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbqh3HqiuO0OthDVzUbZzBqGcLUu8ODnFYMQWI5yVLH7_KwfYRUj5LDbVB8awOGteG7TVRF_yMNop9b7-lOIb2iStozxypeegubJ.jpg?r=25c",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVRUsmMYzZgVfV3X7Qnegts2YfEvfxTNXZVPAEbmEi0cAqJ9mD5IX32-jBkH1rKgO3dxqFVEDPk8XJFdOTMQxoSn1PXkIpaQhAEz.jpg?r=bf6",
+                    "trailer": "https://www.youtube.com/watch?v=lfs5-YMR8Q8&ab_channel=RottenTomatoesClassicTrailers",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABctjzjpEolP_mc6sLMCpI-ECXgzh49T2pBDTRC9uQUNFNFglyPHxUlFsvGH3ynbbB5UHz1wyAlGM2oXNyPAIrGV-gSMPl-JifWs8FPRng2kQ.png?r=f64"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "43",
+            "type": "movie",
+            "title": "El Grinch", 
+            "info": 
+                {
+                    "year": "2000",
+                    "limit": "PG",
+                    "duration": "1 h 44 min",
+                    "description": "El Grinch es un ser malhumorado y quejumbroso que quiere arruinarles la Navidad a sus alegres vecinos de Villa Quién. ¿Podrá la dulzura de una niña cambiar su corazón?",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABfP5-enkCv87PNgZkWYNflBXEFz-BtoF0FlnYlwdVFm6aRndjF9pJkOmvg0FK53caUXH5uwbulYEMW9hulSRcSK9n7j0JTDUdFE.jpg?r=4e3",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABS6X8KOCuWpTOCMK_7aCuhDOJY-8DjmuOujsOErmeQyV2-mkqIxXpTkRBA0HsCqL1_DaXdvyN_Wap1XW_WVpfr9O8nsbyWdonltp.jpg?r=768",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeKKjhVS5QE2VLKw26EUeWyLyjdtM4zBYnKVdUwI2-YGm8UapsrkLM-9MmfjEAQNltMh0qlka385ms7WffhEoJnxk0gduSAEPYc3.jpg?r=d5b",
+                    "trailer": "https://www.youtube.com/watch?v=DD0m9t4WHEQ&ab_channel=RottenTomatoesClassicTrailers",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQRKDGW8O7bbBTFr8TXQ5LDm89fPwjp1N39eQ7sWrpXu298vW9f119QjfPyMIKUEPF8YjsUHU6P7-msmkjAkA75sjvRFJLDKzIcFpBRRIllt.png?r=e14"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "44",
+            "type": "movie",
+            "title": "El rey", 
+            "info": 
+                {
+                    "year": "2019",
+                    "limit": "R",
+                    "duration": "2 h 20 min",
+                    "description": "El príncipe Hal debe dejar los excesos y convertirse en un rey aguerrido para afrontar hostilidades dentro y fuera de los muros del castillo por el trono de Inglaterra.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYvrys36t_IIaGGOi6XkGnXBdG1CXYTHa8CBAFK3NoDIYcOTJ-YyuysMx-5-OLr91OrPOC2kG2Oij8LBzUYHX27AiShs6sFVNw54ONeK4xfyW4Pavvpb_W3kRwAUg7q6Bt8k.jpg?r=1e4",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABU084gLTRLofS9uo1Qu6pxxi9WtMFK1fEFcfTk3roHziUoLONbb1pjCkCD2RPNoEl8Q3qPdVRnnpzKryFlkMU6w3Xd9my7NTNw-l.jpg?r=5f3",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABScfkmw5R1Qy6R09fQjKkFvZUYf01Cwxup1wURdqi0Sc5LIe-5EtqLo0YNEFrPIx6eXiSo0nkoTJGImlBwi-s41Tu4NJEFU-lhlR.jpg?r=c65",
+                    "trailer": "https://www.youtube.com/watch?v=VkrbZqCJaEk&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVRTVMW1GSzCeupJAoNzwkEtBzjkmeFoD5mj9BBMDIGA5k7QGB5NX2xPF-5DPdV9yxb5Q7T9pI5tR57yJ1Uiep2FkBiDwDM3bjHhaBh4rN46t6R788kqvCvqU0mC5KWICibHvPek_uwlrmIO_W_PkqseXRicYlz0Xf5TjDROs8tk2kGhXKjFTA.png?r=2d9"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "45",
+            "type": "movie",
+            "title": "Cincuenta sombras de Grey", 
+            "info": 
+                {
+                    "year": "2015",
+                    "limit": "R",
+                    "duration": "2 h 5 min",
+                    "description": "El magnate Christian Grey intenta conquistar a la estudiante universitaria Anastasia Steele y la inicia en sus particulares e intensos deseos eróticos.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABZc8lQ93PpQ4dsiYCHxfjcViHrBd1_C4Kbze-DD9e1zkjn8IoGaAGXzJco8Q3jz-PPxOi4cnOUQEuf6kGGDnGxT56-8oouIfJig.jpg?r=86c",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbOP6EwYmD1ppWQ5i17GRuy9h_qzossfXwxhrJMuBUp50jeQX8oX-BvqoXH_dS02uEq0bjaJ5Srg9LFgl0V3nTkIwLf-R9c3v1G0.jpg?r=2c1",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaX7ld_Zh-KRLqtaOeLu7OEMIhpBhUYtRD5TsBzT5vyoAP-p2LB9Y4KXI8Xo35_1w1cIkbowa8TThNhgmcZbrqliDvHEH2CZqobB.jpg?r=4c6",
+                    "trailer": "https://www.youtube.com/watch?v=JljbOR8RnB4&ab_channel=JorN%C3%BA%C3%B1ez",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXPY0nwhdsIoudR_rjTugGICxgw2pF5rFWa0D0n9ql5-Sn6bvSQMlILzkrBipmMih3pQNuLOnYfppOAnu0aH68in8JhRnAwNFulZflEOF67k.png?r=266"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "46",
+            "type": "movie",
+            "title": "Ghost Rider: El vengador fantasma", 
+            "info": 
+                {
+                    "year": "2007",
+                    "limit": "PG-13",
+                    "duration": "1 h 50 min",
+                    "description": "Vendió su alma para salvar a un ser querido. Ahora, el temerario Johnny Blaze sufre las consecuencias: volverse una calavera en llamas y trabajar para Mefistófeles.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABZ8hTCurkhY5qQ1rfXzXuuxC4mjrYIYoU_jOBJ6rO5iRPbS10xx65lNtSjMKq5QNpNlE6v_W1773oe3kUcfRj29t6sibvfZkpgc.jpg?r=f0d",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABekoGBim65CtbVobxh4lPyFiDjN9mDwncU0KQvuti2vn6rmSdVcRFpSedcvspHJheYHOjsaCaXfRAQN84tIGt8-JOWZ5kBeJo2vs.jpg?r=c1d",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcA-vAxYWWXDGDUj-JUWr6Ck-QGnyt5TLSuAHjO7dNXEXWgaKGvTKyWEDgd0d28ZT46qYKQdacg-2qFl3EUtivlkkpJjcHwWegtj.jpg?r=85b",
+                    "trailer": "https://www.youtube.com/watch?v=nu6R7ypaz5g&ab_channel=SonyPicturesEntertainment",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZz4y64y9h7JJEk2yI9JmLCYqmOIlav0ZkutPWmmq_YoAJZi3wBHeih9J48qolk-Np3B0J7irhRQF4SV0BdTjCyQQQ32xz8SYJ5jT3d5P9tr.png?r=c43"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "47",
+            "type": "movie",
+            "title": "Rápido y furioso", 
+            "info": 
+                {
+                    "year": "2001",
+                    "limit": "PG-13",
+                    "duration": "1 h 46 min",
+                    "description": "La lealtad de un policía de Los Ángeles se pone a prueba cuando se infiltra en un grupo de corredores de autos callejeros que se sospecha organizan robos a gran velocidad.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSg2I4JcsTjdqlzhF2ulOpO0w_7VpCUceTsJVJunke0KSFaGFt3pvZTYuepYRhvnendPZAELJ-_PJGSdkCBrHU7oq5kNJAofcfQ.jpg?r=589",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWq3Mo-U-cz-SHWzEM71fjR23KYrATFvxrH-oq-LsMIdznV9_d54ZhSCeA-qEHPI5otQBCML6cYjaT4qHiSxu4ALu1-DgsTc9iFu.jpg?r=472",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXmMDTg3NyeebiXotIupPZDHOIWLMRBvsXJY2d5SzHx_tKD4Wh4eeK56udA61JY8G7QvTp4w3BnPvfm5Wtwdu3_fQaPEjrJVU9du.jpg?r=701",
+                    "trailer": "https://www.youtube.com/watch?v=-oJHZre7XZY&ab_channel=TrailersHD",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABchAMDIyhHTB51UW1i5q4KlBeM109ldtIdZvG-VJYAaAj-PMXlFgHY-m-DfC1PleUtcrIXOpyoGdsaHyYs-Dw5p41NCIJPFBSdwd_dImaTtP.png?r=141"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "48",
+            "type": "movie",
+            "title": "Emboscada final", 
+            "info": 
+                {
+                    "year": "2019",
+                    "limit": "R",
+                    "duration": "2 h 12 min",
+                    "description": "Dos exrangers de Texas con nervios de acero le siguen los pasos a la famosa pareja de criminales Bonnie y Clyde. Drama policial basado en hechos reales.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcct9ag6Sh-VtoNZxv4MCLSZd6a4ZbugbFviUYXLKTM5PcQevjdlcw3cic4GtKYUUnkP2JNw8kwigAVVXcXdqzq8AClOJy_pxZXjp4N9huPib7MJdNOrs2FmVVaqfifIGcXp.jpg?r=2bf",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXSbfUDCaRR_VbhCpUg5NjFsvKlx47tMKhT_P4gOsPbZhDGqvEZFN5E4X8LuQ7JRq_PRohFV8U8WA7rRMRa2WqJWQmXO_bbbJTwK.jpg?r=12c",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVLJb2ccHNsRBkIQLGRvOQwUsjvTROfOZ2uO8kLhR8ndtlF-asQksavWszAAmRywjolNpucrEoHdMq56iOPUq5qpMRl8JSsymSKv.jpg?r=5da",
+                    "trailer": "https://www.youtube.com/watch?v=WkDS9qWjwEs&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABdxqi6YUeI-45LgzmT-G_Lb2f4RHSclAeGodV9mqlLOMlAuJ7iNw5yphQgdNT_svvm80s7o0Hbu0GQjBA9hi9_QwIWMJyZdvq7X8cGrTKZcKV1nST0DWo86Q8FFNe68q2J--ksRrFtHm2ne-nIyd2evwQnHX2B6BuZL4LBQdfoephb-ZKH0i6g.png?r=60b"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "49",
+            "type": "movie",
+            "title": "Pollitos en fuga: El origen de los nuggets", 
+            "info": 
+                {
+                    "year": "2023",
+                    "limit": "PG",
+                    "duration": "1 h 41 min",
+                    "description": "Una intrépida banda de pollos sale aleteando al rescate de su especie cuando surge una nueva amenaza en una granja cercana, donde se están cocinando negocios turbios.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTk2i6gcgRxEuN5aPtiH7u1NbdSey_wh8bjTkhfY4sDRsXVvk1TJh1V-6KOeeW3gLKEb_UHPh9Y90VTVzDs4KFtUB7V6KcUK3rcSnWn_HO_IxjdOqNqpJky4UbIZiUxX0-OT.jpg?r=647",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABY8eygcxdIwZTtexce1aD3IcgxysKWYWBk-FWZ1mCl3UTSA2ghp_Rl4kAgIOS5FWFRwtWA_1Xi6nD7F8AVPMwayw7tiAQ6dgnBj6.jpg?r=10e",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWj5WpHnkv1GdomD0gSinTeBohaIh32NLJa-2bcOV8AfX-8ceTPzFXkiUptoOSt_R198ZUKyuR1qnzootM7uYhGsOYqaFu69-5Nr.jpg?r=3de",
+                    "trailer": "https://www.youtube.com/watch?v=fkBejMDo3bc&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABRhBVC8tOQNlKjIMzaI4dvyDs_fQ3ZgasuuBsFChDIMy19Hpm9U35DTagy8pMnTIbSjTP_P3wPVhO_QZM-uE8QiAnJ6hFPICPYKXwUEjaA7UI9Tx_Uol1e3eq3RsW3fGINIF0ywmaJCYtO68dlOptkaJoYdGyKVkJP1obrzecXMPbNOYQerjAw.png?r=b3c"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "50",
+            "type": "movie",
+            "title": "Cría siniestra", 
+            "info": 
+                {
+                    "year": "2022",
+                    "limit": "TV-MA",
+                    "duration": "1 h 30 min",
+                    "description": "Sin quererlo, una chica cambia por completo el perfil de perfección que crea su madre para las redes cuando trae a casa un huevo que se transforma en una peligrosa criatura.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABc-J7bjLquWTGU3uaWi-yBlBH-OskVJ-euJGnhvZdlK1nn5hk9R5gV3OzIvPVjxEszMTnUcL8TSZCwYm5qVNx2fGiwfl04sIQzA.jpg?r=33a",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABT5H4lIpa2v4rkyPW4PvuuROUOp9zdSUT3obp6IgHW5ui1RU7Sx4SS5RD71ueVPPFbXOfg2PmGGbKscsnxdXW2dIDgThESG78ayR.jpg?r=682",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfL3V4GNbP41mU76g_qX7XYvcHBk9rsm6Z0aDA3kfC-SXkdjqUZeS6EWw_UPp80MdOwoHVVU4b48cXI_jkGF1aWBZZ431ABr4wJ-.jpg?r=a75",
+                    "trailer": "https://www.youtube.com/watch?v=WJm_vYo5hkg&ab_channel=Cinemex",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVQdY4CXFDWSVas4miG6aQgyX_9o_RgIRTKg_kI4k6LnjDXfVhyNRUv0-7BE_l-_G9ly5XiWgamKkqEhWKLyPf2ZBHYcpgnZ1zHi5b1RBQQQ.png?r=d8d"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "51",
+            "type": "serie",
+            "title": "One Piece", 
+            "info": 
+                {
+                    "year": "1999",
+                    "limit": "TV-14",
+                    "duration": "19 temporadas",
+                    "description": "Monkey D. Luffy navega con su tripulación en busca de un preciado tesoro que pueda convertirlo en el nuevo rey de los piratas.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABfaEiIk9ae2F3E2FBJKFD3ImiXeGVZQwCd6QV2VZ9Znxvz2KYxOrcMb_VSpcQErN7CYThJWV0Hru_lxT0XApIZ6GYE2y4Uvtce40gXrQaygjGL9EUyllSp-PknxqVzSgEDLkP4NdsdduBEiyHAInXWGOMc1btQcw2An0URsdeHBEEAmz4bbUMny-_JXwWDzqh-MKNHW2e4LwzIF8VYFYOHrGYnN5ls7j8KMhA-NRZE0t-Z_keHj42CnAjznUjRip-CTN4kTFIdt09hjExM1vbOlIMWxa_g.jpg?r=066",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABS1Luo7fSkx7R9jOmaSHyN1q7_Lj3cWhRXl9ufv0D2RckLBmGPVrZl69yo4gZ7MHAs1e1WcQQJM6zoF6l7z01dAFp3JrXkVGGmqn.jpg?r=e55",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTYmlge88J4-0ouuHWDsP8VZBuoM_3FPfGZo-YMOixHeB1qduoBni9iahxi3zkEXNvwZ4Xez_JoRDiPq3hyLRyef43_fNRUJziyD.jpg?r=d90",
+                    "trailer": "https://www.youtube.com/watch?v=dM7x1PNZDo0&ab_channel=ONEPIECE%E5%85%AC%E5%BC%8FYouTube%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABa4UAEx4vGcwwHQGJ4rLB3zaYiVdZZ7lgSdgv8OAWEb34BGXEFbNumHPKAupfLMmOiOD-DIsXy5DRklM_Qk9xwIape-S7O0u67l4BYO9Ghj-.png?r=74a"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "52",
+            "type": "serie",
+            "title": "Hunter X Hunter (2011)", 
+            "info": 
+                {
+                    "year": "2011",
+                    "limit": "TV-14",
+                    "duration": "6 temporadas",
+                    "description": "Para alcanzar su sueño de convertirse en un cazador legendario como su padre, un joven debe pasar un riguroso examen y encontrar a su padre, que está desaparecido.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABepPpFy28eJNJGjLlxPmWlV8CdnSPlcSVMh9UzI2C4NxL1xGj-SHZot5-X5qGbzc7_ILtVSofcVhfP5-7ESPTXxflSPLz9g-1nQ.jpg?r=c40",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTWLq9tZWTRWDAGOxVusj3zWJAIkYG0jHJYWngG_IUwD9CojLZwGqtxbBCHF6VDCU44rbzevESfuieMI9NQ0Lo5WRTNks0oZSDtx.jpg?r=b5d",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTWLq9tZWTRWDAGOxVusj3zWJAIkYG0jHJYWngG_IUwD9CojLZwGqtxbBCHF6VDCU44rbzevESfuieMI9NQ0Lo5WRTNks0oZSDtx.jpg?r=b5d",
+                    "trailer": "https://www.youtube.com/watch?v=sN_DBDSol6o&ab_channel=Crunchyroll",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZDtstNkfLT-KCUcx25KC_Yyx7sby9jqAKJ04VUh1AQFOQ1vNh2ZtU9SDRX5RfjyVOPXyQjNA7tGpG8d7eotGE1yuB3A_z-j2WFMWXFPqGeD.png?r=fee"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "53",
+            "type": "serie",
+            "title": "Komi-san no puede comunicarse", 
+            "info": 
+                {
+                    "year": "2021",
+                    "limit": "TV-PG",
+                    "duration": "1 temporada",
+                    "description": "En una escuela llena de personalidades únicas, Tadano ayuda a la tímida e introvertida Komi a alcanzar su meta personal: hacerse amiga de 100 personas.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABRSVO6I8RtsF5skfCxHffatt3HssRqud68hl3cq0CKKSJUrMIWvHJtN8U-hxZJOzF0stYEX1IQPbeyqa46URp8GXJtXu-4DJTIyFNf2Qd_j5RduoV9AI-5nXQzcPeGreHfgC.jpg?r=020",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaj3VUmSSwEnfPk80_K6cmna0JMgPd99YLLkTjpoerflc7Mn9wOT7WIgHe1KtXLBXUqVmz8s5kifj7_U1u6NuuZuWawk_iqu_Lf3.jpg?r=df6",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdFpoAUTAK32U3kaNnJq9tW0XnSBrIFdmppaDECnI7kz1_ffEG2UKxgShsPNWr4qPaXGSqw4GgIROiQ4Lwyok2GT_6b3aFg2-wVM.jpg?r=9a7",
+                    "trailer": "https://www.youtube.com/watch?v=tLdLTSnmnoA&ab_channel=NetflixAnime",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfRWEnRMu5vMEroucakUkH4ITRA2HABNK5cJ7oI5BUVLLz97rrH-XpsD1Da0DcFK4V9lGrUTGmXUYY0OGpI1bOM9S-74mtowt8DZZBYa_AoLMeol_E1lGixoN-qHhZAJd_BX02BZyCuYS5bCacpvItRX1wCO6RehuBswAOSOIm34eMUl2rDVUw.png?r=ed3"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "54",
+            "type": "serie",
+            "title": "DEATH NOTE", 
+            "info": 
+                {
+                    "year": "2006",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "Cuando un estudiante japonés se adueña de un cuaderno místico, descubre que tiene la facultad de matar a cualquiera cuyo nombre escriba en el cuaderno.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWZMQ6dQi5S614SvT37M1Kdkuh5GDAW_Uvk4QTapB6J2Do5fI0-0kEqiW84EpBEaLRigDmnXEpcy7Fc2UqOP5V8HuxrEO0StPsQ.jpg?r=6cf",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABboqDwV98d-QpA6biauPIcgNeH_c439AXzsln9B1k2Ol9F36YokyOE42ORtSKEx-CiqNsiC-6Dhm4-mFCK1q9OZRJFa9rG_CUvHe.jpg?r=685",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABboqDwV98d-QpA6biauPIcgNeH_c439AXzsln9B1k2Ol9F36YokyOE42ORtSKEx-CiqNsiC-6Dhm4-mFCK1q9OZRJFa9rG_CUvHe.jpg?r=685",
+                    "trailer": "https://www.youtube.com/watch?v=NlJZ-YgAt-c&ab_channel=Crunchyroll",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABU9P3bVyw_EqSm07XbdfKU5_JMBiLwo45OoLvxILO9nduFD3OTS4oJKKI8VVKMJQ-RbJSbLHLiYr69I9eY_m47gPbZ41sUKlxapwfmwOtg0N.png?r=705"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "55",
+            "type": "serie",
+            "title": "Hellsing Ultimate", 
+            "info": 
+                {
+                    "year": "2006",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Tras haber jurado proteger a Inglaterra de las fuerzas sobrenaturales, sir Integra de Hellsing lucha codo a codo con el vampiro Alucard, su inmortal protector.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABfu7nu6svnB4OPJOeZUBJ4OexvC-QZKUlChF2VxdtvT2HPQpBdEYvk-VxckMlpqeE4iqaeuGmoJeMeKYif9xwQrsO7LDmHWuTXA.jpg?r=ac8",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXobGJ5he1nkvub2CkrdgiryOkGjHCig0bhP9mkb6KqPKbiheSqJH7J3MVGAsyn64nCuKcVHl7bU4GHVQ8cAsNf2HN5OZkL8fnDV.jpg?r=faf",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSVH0FLCkTGuc6o04WFyEyrBCEy-v8twaJ7Y1J3UX_8uhHJYFnLkd2_AOBseULUkxNFjCJBXsXktVE1L-PT4JiWu1dcSWeSlN0SA.jpg?r=384",
+                    "trailer": "https://www.youtube.com/watch?v=7CQKMDFAKMk&ab_channel=CrunchyrollStoreAustralia",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdqiJDTE5Bt4390iWQDD2WWTKOAwRwnfqiQs0sKX98-tRYHwBbp2bqOLhpBQL-SmK-6EohMlb7P0OGhDdEViTmXMf6CBrQkCySCG26NX5q1U.png?r=15c"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "56",
+            "type": "serie",
+            "title": "Gudetama: Del cascarón a la aventura", 
+            "info": 
+                {
+                    "year": "2022",
+                    "limit": "TV-PG",
+                    "duration": "1 temporada",
+                    "description": "Gudetama, el huevo perezoso, se suma de mala gana a una aventura sin igual con Shakipiyo, un pollito recién salido del cascarón decidido a encontrar a la madre de ambos.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdlvgL8P2frRYMJMm-ueYFx0J-mAAVPDqoVOgxQJscZMr1OioaHrtXgqIXL1Ud5SY7bcstg0iEuUZSNZKMOs8D62iH_nr7vhuRvZT1ThA3SRC88wCXgI_v9FVzLdmaWdvIr6.jpg?r=a0c",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQaZKS0jGT_F0dIW2pmaxxzlnv-9o6LCZWHxeU9o1Utf5gq4c33dOKanieWublwJ11nWRUh9g4nmdyHLhMwOBlOdcQiOcWBoRUdp.jpg?r=eb6",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfr5Ra64h5Aimu8vZrmW7iTIAEc91QmUBqoOZvsXjoc5yfhE89DFQKVqzlIqY9Fpy29V1GNUqC-brqQ9ehexrQNebstW68m7T0zZ.jpg?r=159",
+                    "trailer": "https://www.youtube.com/watch?v=8JaLmvzx-Aw&ab_channel=NetflixAsia",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABbLvWDgW5FJEOTVtpaOpTAg4FSFa9o0p-Jq28OiRsiDIDJ8ABzz_e6AydIHcC6ozXT11aYx5HQJzHl2_thGoGtbgJEnoc5sEBWK4nlJMPu6qOoDD2wyU9vLNK59TXEcZdcenvmkEhN3LfPAZznJ8ko17dfSfs37sKHE83XhWHmP4DB84ObLs_g.png?r=59b"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "57",
+            "type": "serie",
+            "title": "Parasyte: The Maxim", 
+            "info": 
+                {
+                    "year": "2014",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Un adolescente combate un violento ataque de parásitos del espacio con ayuda de Migi, una dócil criatura que se apoderó de su mano derecha.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXQvRoeEjl8QPrhD96plH0owpQLksh0ZiLo8j49Rb7f-evGpGT841fTbBhM6cUd2mZu03jIbQ-xOWo7cjjR0nuDjbO8SHD8B70s.jpg?r=03e",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABa9G5uVhbGtmJ9iQAo7NwZCN2K-k2nR9JaXLC_u3dpCZwnd0tTTbTzbjNIoRjIWbTJy_O6Jwi0ISnY2l-TuF8UH3_gH5YEeNEKX3.jpg?r=68b",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQlKdf_oRjBvu8z84nHlUy8t89WdQlv-dcPfmmcl_wAh_uLxw5Ks4FLbc-Lyo5TUk9XaC0Nl_U6BoKQxG4djXLqsInOc9gx9jUGf.jpg?r=d82",
+                    "trailer": "https://www.youtube.com/watch?v=ziatgnrtG0Y&ab_channel=CrunchyrollFR",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABf4TfTM6FTh1_fhdidPNU7ePCPuATE0ibleAjCP2zz28YtrpmTN-EvUDS0kyl8HlTYOMCxeX9TiFyQFv0KMT1pcNfvmTMA7Eea6I_C0hqeqk.png?r=f7b"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "58",
+            "type": "serie",
+            "title": "Espíritu de lucha", 
+            "info": 
+                {
+                    "year": "2001",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Después de que el boxeador profesional Mamoru Takamura lo defendiera de los bravucones, el joven Ippo Makunouchi busca su propia fuerza en el cuadrilátero.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABe3flNog_tUmYLSNaz5cQRUaSEpT5ULj-7ugcAZZGs4GNTGFgsrIlnvJ55H1iFbEhrDE4AKF97TgcoGvbkkw7GBQ8V3KFhJwv_Y.jpg?r=181",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa2KzKDQrDUa9IxUoXuHDiyDE5Lc0SIWyycs4c5z9Hkj_4lq8DRMYyaDzq12tk1VTuWPTSKLW_OxxpiR6-e7F_zaGfKPs9z4bhnu.jpg?r=96d",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa2KzKDQrDUa9IxUoXuHDiyDE5Lc0SIWyycs4c5z9Hkj_4lq8DRMYyaDzq12tk1VTuWPTSKLW_OxxpiR6-e7F_zaGfKPs9z4bhnu.jpg?r=96d",
+                    "trailer": "https://www.youtube.com/watch?v=9S50a4rStNA&ab_channel=Kobodyguard",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeJtYea_40g_qmzMNJLVPmx9_objhFJCGpxG1IJriNOmP-cfV85Qqv5TzKbsWsRC2MGATu11Zl0yhW9DTSx2PA0LUcs6NTppmx0OKvBA1lYR.png?r=623"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "59",
+            "type": "serie",
+            "title": "One-Punch Man", 
+            "info": 
+                {
+                    "year": "2015",
+                    "limit": "TV-14",
+                    "duration": "2 temporadas",
+                    "description": "El superhéroe más poderoso del mundo puede matar a cualquiera de un solo golpe, pero al no tener retos, lucha contra la depresión y el hastío.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABaNwG9kR0uLjwIzhmeuO-u5dULEe0qtr-nhF_96p0WYiLeuRPbScwFCdYZcMko2uK7xV93tNrBj-Rfj1aYrTjw__JPTQ_Eof6j8.jpg?r=d7c",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYdsy8dbkk-ugJcjNJjFSe8BkwTjLb9xSWRqc1JvO7QvAnvsD4JbwSHkLNedkPjQBiw6t14i7uFMNIV8E-cHkME4eS1jQnmNfDJc.jpg?r=f68",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYM9KvP-bpz9dnTQP1O7OhpXl-Vs21ImIUtsfrrwF34WX36c4S7ceysPRTiFe4MamL8AKhiCvsPsS_ON75eGeuJfhSEmUp4l6bM0.jpg?r=0e5",
+                    "trailer": "https://www.youtube.com/watch?v=atxYe-nOa9w&ab_channel=animelab",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUPuKXdgIH_DfdHvrvxRPgOWMjwmHD-rh0R81IW3POVh9JIPUNghYbaopO1qHH_mhQ6_iGmEKq9F6qGGw7d-mmn3kohKOJEa5TAEKbfRZ6Tu.png?r=a91"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "60",
+            "type": "serie",
+            "title": "Neon Genesis Evangelion", 
+            "info": 
+                {
+                    "year": "1995",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Quince años después del Segundo Impacto, Shinji Ikari se une a NERV, el grupo de jóvenes pilotos formado por su padre para combatir a los monstruosos Ángeles.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABX3tCa2OPkuXDVwi3B-2yAZMmYdMMC0NTnNiRPLPkCJoXMbfU6yLA4to7D6mMgkg3FjAvYc1xqww3ky7k6nBLdljpN_sQZduVjk.jpg?r=26f",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZQKVkI0gwqhqtG-8xWjvhlvhqQdswEQZtstzrXDcUw1b7oYvjSW7yF3ZflDJclA04H1sgVuiU61tGaAD0skvrCUhypDQlpNeez1.jpg?r=e73",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXTd_dqnAfjnweX0Bc6GTCbvZrfX5wtAqrPR5iUJ2sywO3izzK9SPJsDnfV3k7hzXL3Rr6QkRURNPXZXHsz74ib8MCH70sz9Qlz8.jpg?r=83d",
+                    "trailer": "https://www.youtube.com/watch?v=3bdjDmYc8J4&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbwG-m7IraLErUf2tqSLBC8bjOQMCzqUmxhzRblVSvNpr-uJ-AA3EJGxlc8Qq3sJGOsia5cCZsCGlV_VDgbpOLr1xQSlmZMaLoXFdyLui8Tc.png?r=873"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "61",
+            "type": "serie",
+            "title": "JoJo's Bizarre Adventure", 
+            "info": 
+                {
+                    "year": "2012",
+                    "limit": "TV-MA",
+                    "duration": "5 temporadas",
+                    "description": "Varias generaciones de la familia Joestar (todos con el mismo sobrenombre) se enfrentan a villanos sobrenaturales en diferentes épocas.",
+                    "genre": "Animes",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTa0H4LuDHbj3zRc_yT51uwaIXybYLIA_roTWOwMrx7tcPiS484jlmu39Uu8LDXCnQSG2WKdCwH_n6tqCJWGDttLq8wZc2TCED54uexHjiNSivbsXROZ1bgasI8-DCewPYsK.jpg?r=79b",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbt6HoU-4O5j8qoZ2a20pqaqJebSqxOIuxRXqAif0fP7__hB6GzymQfYAaAadPgHKXKNUHbJ-dRFcHao7nCmmRBDLgzF13EkPRlU.jpg?r=a31",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUnj7PTtGhELQmjIM1SedolFb1lhOhXSDxGcgj14TBY-fgzkJvG9o5Gt1yVgK1eI-92AT6bmvmo89NuDMmbIYUXz6i2PAKR-k9xp.jpg?r=3ff",
+                    "trailer": "https://www.youtube.com/watch?v=EeCX8Y0a278&ab_channel=Netflix",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSsRtuLe9QT1aUmPgKdU9SVDNqUIBdHSC0EfqKusgrN6x1AeInSgadzrBaBrY37DIKshgcnmy9M6GcmMLvb3FandvAzB9LT4g-Z44Og4--PSFronERvf-jYi8qS6XbjdKSYZ2PJ2NSo6BNW1OZjePF9KAkNFc57WrWimC5vF1LbMIWj204GUew.png?r=6a4"
+                }
+            ,
+
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        }, 
+        { 
+            "id": "62",
+            "type": "movie",
+            "title": "Bee Movie: La historia de una abeja", 
+            "info": 
+                {
+                    "year": "2007",
+                    "limit": "PG",
+                    "duration": "1 h 31 min",
+                    "description": "Una abeja obrera, condenada a la agotadora tarea de producir miel, demanda a los humanos cuando descubre que su especie ha estado robándoles el néctar desde hace mucho tiempo.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABfBf3tqsdsaDv0L1qA1FsjD_imC4PvK8qjpYm404qis1tzYPGEhrIwT-jVTlSJ0fPjjqxUIoqBYfBV8gr1BK-K5ztvaYacMEqqs.jpg?r=d92",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcXBfsc59EYFVx2xNrSMp-G5UUfHNrzJdqSi0A9gG7qehX-VjEZQ53bwRpXVUA9betFd6UHEADt2CQsRn2dcAdV2EQAd_wk_AHfp.jpg?r=859",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABX29qWx4vYyOCR0HFwBMdVWfn552rMgL9VFbbVOh3dh9wMJFddU_kpZ5IYXbVERShG76ksN9vFj5RDx5ye1ykFgEDDIsfOO721-u.jpg?r=e91",
+                    "trailer": "https://www.youtube.com/watch?v=VONRQMx78YI&ab_channel=AnimationTrailers",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTT73wBYHO7S6eRqPmSpy8hMBm9xqmJLVjgSAP3L1kBFUz_R36FmG1Hon6mS7_Es75D4qKhHM0aBFMeWBMf-9eagCXKc67tXzZZqSJn0Mm2G.png?r=6d3"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "63",
+            "type": "movie",
+            "title": "Medios hermanos", 
+            "info": 
+                {
+                    "year": "2020",
+                    "limit": "PG-13",
+                    "duration": "1 h 36 min",
+                    "description": "Dos hermanos que acaban de conocerse ―y de personalidades totalmente opuestas― inician un viaje por la misma ruta que recorrió su padre desde México hasta EE. UU.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYFqaTvMcHw_MSWmdmKh03T3AMZoiel5tK4d9YR98Q0suwIEtWaY3TXTYTUUoyF_XkF7-hI4dQzbRiM82cvtjCUDubCqrG3IDKNyxf32GPKW0BNzVTh4EUc6KV8rrnwPfI_WgW9RTrQrrOH5FFWXP1_mHJfQXvs0o_MDiA-XJ2BVJ-ulmiQ1P1zktCCD7R09NcyUgMu4HaTd_RybxjXFdWnqJ7C9H05tE2HMPG73mKN735dJ_4wTLETgIeVuTskWpwZxxAO7Vt0ngjCAWC0NFfftHw.jpg?r=77d",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdUT5de37_Yf8OfKCNrBYwtYEZEtikII8B0xApcBX4Lr4xYf8-dtG9W1zS4OPXLCoRLg_sj7C0keKaHzD2S6RIhyWHybC0JJ5Vvx.jpg?r=a7e",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUBCqMexAo7xhPa6X9p8vtdKAx_Kjy5_V80LgU4JQKB4OBYXjssFrzZq7fyawb1Q0YUxkGRHcb6lhKQLRit5qYGWmR00ksvURcPk.jpg?r=a8c",
+                    "trailer": "https://www.youtube.com/watch?v=Ukos1TRugnI&ab_channel=UniversalPicturesM%C3%A9xico",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZUR6e9ILc4lBtdrrLdckdHAQ5Z3yYwM3GY8Xt13SnBoC_B29LV6fQ8gUVdwyc8pVNdjwVjWlwX0hT-7vSyC-z4Dm0gM2iFrQeZvlupwhctF.png?r=18c"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "64",
+            "type": "movie",
+            "title": "Inhumano: La leyenda renace", 
+            "info": 
+                {
+                    "year": "2013",
+                    "limit": "R",
+                    "duration": "1 h 33 min",
+                    "description": "Tras un salvaje doble asesinato, una abogada defensora busca la verdad sobre su cliente —un hombre misterioso con una peligrosa enfermedad.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABRREzj2Z4X4FYJ_s7jVsNYhk1yhdu6o2RC_RX-KBqfp6aSQVrys-ls2Q63a0kXp-6aBPi6FpA2b3BNWq4oa5Eoxyw0sVJhWvxmI.jpg?r=a90",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUYXW1PAUIcYQKnQnimRjvsQEhWZwcip7A1io7_MEtRnuyWU6zJNi9BPyT8DZQV4ybhn9eq9AdveWCSmSe2w99ywSWgnPDgVKZvg.jpg?r=383",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUE1af3vf_wmB9S553rcifpujHcx5ZVB-bNJ4ktW725xnG_WP09U5Y8SAhBzdbQTb4BjgJTNfYbtfYNcWs8x40F0fpkLI9_vc5RU.jpg?r=59a",
+                    "trailer": "https://www.youtube.com/watch?v=DEBt92Ij81s&ab_channel=RottenTomatoesComingSoon",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbfSAXWR3WXxkOzZ_1bmQqC_eMpqMoBD33w4aZUYVQrnro4XBZKL0yE97yBBUWo0TyYzLTZK3yCPDQnrSck65MKZwVmoxmXM8tW4Qt44GtJX.png?r=d86"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        }, 
+        { 
+            "id": "65",
+            "type": "movie",
+            "title": "Cargo", 
+            "info": 
+                {
+                    "year": "2018",
+                    "limit": "TV-MA",
+                    "duration": "1 h 44 min",
+                    "description": "Un padre que trata de sobrevivir a una pandemia atraviesa las zonas más salvajes de Australia en busca de alguien que cuide de su pequeña.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABbobTBApCp3cXQEOsnwkHR0z3t0mH2JPvfyDjO79y2uJdFkTQ7qO2b4dYMcI_lMEP7XaXJnkinYNDOEJiydEm_FO6j_4UFlyfB3s1SjPZtKxVBgCxBscLNgrqMj6K_revIw8.jpg?r=476",
+                    "poster": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYP5StI7teh-s8heWbMNHtcKpSgdh1F6rER_GdJuxqZo28QuyyWzb9XfIsUutUDfTpUiK3iZkAKY6HAq97D2Cv2p6FipU7sIVi6n.jpg?r=c1b",
+                    "poster2": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa2P1wPa9blTVk6I0rWWyhi-Qw_VM3OAyAc6BGjApwNJcFNIzARZnXGgCeF1g4CFkJUXTg4HDhaszEuAYuQN1m1JKUbDKRRzlW5g.jpg?r=209",
+                    "trailer": "https://www.youtube.com/watch?v=nkNoapu3JC4&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-33.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABc1B1ysoK_3I3EfV8rJXpmASXYKjf6RQX1IYhW2V_f00x4GAXcpDXtY48EJmyi-qgHRasSJOiHGf6rZSZrkJ4Ju3FO8mp-V5_aPqZVkruu2ibTjycOdGViehCSz9AzNLQsjFNR3M9h6mKxPSF1kzFrYOoXYorDeCODsUB_-GW-K-n8GrBLI6GQ.png?r=07b"
+                }
+            ,
+
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "66",
+            "type":"movie",
+            "title": "Bob Esponja: Al rescate",
+            "info":
+                {
+                    "year":"2020",
+                    "limit": "PG",
+                    "duration": "1 h 35 min",
+                    "description": "Cuando alguien rapta a Gary, Bob Esponja y Patricio se embarcan en una alocada misión muy lejos de Fondo de Bikini para rescatar a su fiel amigo caracol.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTnmhj2B-kqjtDI4o0T4ImfkQL9xz98FP8OhVZnquERLyhuyekvfKmzlJoi5aBzprFfRiz54aanRHF-9OJYF3K8x7crykFxKY2bXqcLTpMPJcIXGGBbjo6BD2YAjAWKetZU4.jpg?r=d5c",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRGW1g5Y5U5v1DQVFm5c7cKmL5_K2YuVoWXGL8dTcoYsdFjytACDsLNJEou_QruWQGMa9l_JByRkKiYmO0nwcrP-lnPZOtFAWwv1.jpg?r=f8c",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWF6gztlnNvdH0va36Azy5BCtQJ5Y1iubexM-aAPLQvjAPN0rpjQ38JRJMsZ1ivSYE7PxRmP5zXA2oX8AlopxAGcrgJ0cGdxPAB-.jpg?r=052",
+                    "trailer": "https://www.youtube.com/watch?v=BUFKUy_c5Tw&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABTQ8VBdnucClsPbEkWM5-5tEsJ35QmsK6RXjAimm3pDk19aRta9LyaJ-igORSRIlP2uHRg7zGz6lT3whP70ycDRbCpxDjhzTou57HXdzarem-hcsRIO2VXpCDK9kkl-Q4CZ_Y9JljmpC7HEjqlXmg4XldJsFXLGh4GE2LtR5jFgZYwxmCmks0w.png?r=e4e"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "67",
+            "type":"movie",
+            "title": "Una película de huevos",
+            "info":
+                {
+                    "year":"2006",
+                    "limit": "TV-PG",
+                    "duration": "1 h 29 min",
+                    "description": "Un huevito llamado Toto sueña con llegar a ser un pollo, para lo que debe escaparse con otro huevo y una tira de tocino después de ser vendidos en un supermercado.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABR6ktP6MrFZ2cIQOG2JW8oJ5MUv2pbqoOI2A8DjDuUFrnqYnoTQDzbrGOAq6C2cyV_jfFxMa7J7OuaZS-DxZXyX0qEmJUN3AjOE.jpg?r=3f4",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZi23frf9pukTCbA3grYUTCzuflWLb9MvVRw5lJ4JXTmhvuaBdnJFDYgoDx6TyRy6zLNJTGWAVxxZtj4BpFUHeB7Rm82n_Zm_3So.jpg?r=e30",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaK42WgFWEnOnpRc_kIaHUkXucyvQMxvnkeOcwfNjdJt8LtHI1mDw3xqaETLhH0zQOnsyfTU1lD5_YloC0VbSdiYTJh6eS780K0R.jpg?r=20b",
+                    "trailer": "https://www.youtube.com/watch?v=b_I54aXqe9k&ab_channel=huevocartoon",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeEuseG-rJh22TFTf0QDYgAj7bGLli1GOiPRkhNLRxBDPYLUf8r2ZSzumX4wW2cxYaRwmohIuYKVLT3DLfHM7qIYa_NpvnAFUoAY82HpwxYZ.png?r=0c1"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "68",
+            "type":"movie",
+            "title": "Mi villano favorito",
+            "info":
+                {
+                    "year":"2010",
+                    "limit": "PG",
+                    "duration": "1 h 34 min",
+                    "description": "El plan maestro de un villano para robarse la luna cambia de rumbo cuando un trío de huérfanas que buscan un padre se adueñan de su corazón.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeOR0J_qkP7HtpLEtt272Y7tMmw-iBJAuK28zFNWW4VCgnX-kOotql7o7vGGgz7NK89s6ZR9GFPMVTvK3tsNwU3xx-_1HA8BsE5QN-V_r46IpaoL5uTGhYH91diaPaxuLjYmeAjgr24f1pxxUURJ3Ok4d2ae0a7KOLg.jpg?r=707",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTvpc_BMRG1Tjp2EMuqm11J4qJ3b5j9An2pIGwlYb5pmCG7v1EGLhA5pdJIXnjMt4v39dGj3rM9n_zLsQqS2m6bc53qUoFaIBMXK.jpg?r=795",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWD_aGIIPgpj321PwnP7Af6UVGpCGwsDW4PW6x6NhHm8bBX09ZglWDUOUagRkx_Idb4r1A5uN1yhB8xyeSc0xFy9dDB3VXiI_EmN.jpg?r=cf0",
+                    "trailer": "https://www.youtube.com/watch?v=EFk15rVh5cE&ab_channel=UrBeat.com",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABX9YAW82XAL1Rwv1Rof5p4tuR5bxSp_Fc0m5GGllT3QtTGdj8yiCQTvIYDTjRX1xZNhKEl18-HIEAKlSoPZcobxbZlxEn9kpEvjJvvfEnrHB.png?r=64a"
+                }
+            ,
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        },
+        {
+            "id": "69",
+            "type":"movie",
+            "title": "El sorprendente Hombre Araña",
+            "info":
+                {
+                    "year":"2012",
+                    "limit": "PG-13",
+                    "duration": "2 h 16 min",
+                    "description": "Andrew Garfield interpreta a Peter Parker, un adolescente que aprende a controlar sus poderes..., al tiempo que descubre secretos familiares y se enfrenta a un archienemigo.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABe5gxC01z7DwTcTYheZc0Xc2Qn-SgDfr2hbahIFEPXCO0waGUlRWIxTiqn9ZMkb2lHfuUE_3asEsVDoicQiI09jbK2_d1gnJqig.jpg?r=52d",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABe-LO22_205EUPO3VRI2YBk8m9lAdUurbtMXkAlC9u3RWsAub3An8lVuusvfkaHhmbtN5_4YJoxB4pFFPh9llgXAGxr_j60wBXSB.jpg?r=e8b",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTQuwFj4Jasbn6T64pO254QZZozuAst2y4xvu1-DsaJXy3XnYMtJKZfXKyN34j6GJ2MS2CzjqnVZ2WFN8OQ9I2nqkrEbG4D4guO2.jpg?r=225",
+                    "trailer": "https://www.youtube.com/watch?v=eou9olJruK4&ab_channel=SonyPicturesM%C3%A9xico",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQ-_KKYTRqsCKg61flFYoWYZ4VVMJOewPG4-SjiSacZGC3KesFg9l3cjktIKxJoTVk2yXgnOVJaKW-xcf0fmwJZxio5jJoVN1DX6xvt8oZ9V.png?r=6e2"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "70",
+            "type":"movie",
+            "title": "La leyenda del Charro Negro",
+            "info":
+                {
+                    "year":"2018",
+                    "limit": "TV-Y7",
+                    "duration": "1 h 25 min",
+                    "description": "De camino a casa, Leo y Nando se topan con el malvado espíritu del Charro Negro, quien quiere que Leo lo reemplace como el macabro jinete.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABS15jF2QWfmcUCDKBHN1EEROyK_8RewzXfS517QRjG9zqZUUrHaGWronfJe0U53lz5ojBJh0CxunJWrzWFeAtV1Ik4VL0h8nVj0.jpg?r=13d",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUCqhpEhPtT2jtlSWckbtpPghBU2IEpHYof2yyyNRCG-uP-piiaaIdsKbiplnDahgJuQpk8SB5T-j7o0ubbMn5VJmcTgLhU6SeC9.jpg?r=4aa",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABckBWSae6lxRtJIXbBGdi5JTaBQgz6dc658LVnL0t6VY-uDRX0OHJdn-vBczzI281uxLF3Nu3RHEt4M2RL2shtioLbASNV5u-E-e.jpg?r=745",
+                    "trailer": "https://www.youtube.com/watch?v=YclerlveAm4&ab_channel=Leyendas%C3%81nima",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYwrG9eL35_sT1Lk5va2sn-wzOTqgglxYts1DzldivSKE_VFEQ9GVEMdFzEC_zbEspxCpoC5CgXMQvOWnpIwo085rp7uNbTx2qj_aEn20xlq.png?r=1a9"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "71",
+            "type":"serie",
+            "title": "Las Chicas Superpoderosas",
+            "info":
+                {
+                    "year":"1998",
+                    "limit": "TV-Y7",
+                    "duration": "2 temporadas",
+                    "description": "Las dulces y deliciosas hermanas Bombón, Burbuja y Bellota han dedicado su vida a salvar al mundo del crimen y luchar contra las fuerzas del mal.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABU2YK9FcYzg3K4vKTfF2vUjR46N4EY2NCYy2exUolKRach8CLtZ_DdDAFymj5IFEibVUhjtEO6rATS9qXes7agkAmkYAIlUeFm8.jpg?r=402",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfHSLmFvr7SbSeGe4mQQALfccXEWYHhsxKjUGPhB-AdPp3f3ELj_QaUNoj0zso0BgEUgLB_rps0IDTqmjl00yPhQWj-mxPi0rnjS.jpg?r=eab",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQ_YlKFw2wYf7wIvQMcM0LJdXMjLOTwDkrKd9w-2m02cV1eaXe7KtQiSt3YMD-1v7JOryYxcrZlcO3rL2Fsvba3-0gcBkmEHysDS.jpg?r=f9b",
+                    "trailer": "https://www.youtube.com/watch?v=Yjx2nit0umE&ab_channel=LasChicasSuperpoderosasLA-ThePowerpuffGirls",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABf4hnfaGMjDl9t61noJ6gZiAq-mQ6wWQDwaCbOUh62WcH_vQExxYqmBAdIAky5Y5UJwQjXT48T5V0xHRGCbISl3v9GS8zq9HJS3QFXw42_4C.png?r=4f3"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "72",
+            "type":"serie",
+            "title": "¡Scooby-Doo! Misterios, S.A",
+            "info":
+                {
+                    "year":"2010",
+                    "limit": "TV-Y7",
+                    "duration": "2 temporadas",
+                    "description": "En esta nueva versión del clásico dibujo animado, Scooby-Doo, Shaggy y compañía resuelven escalofriantes misterios en un pueblo plagado de sucesos paranormales.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABde0qVYPPD1jag7Fg3psvm3b3MCugq1AWOFOpDuOGWnZG-Wb3ze_YzqxMRijqKNshrCfJ9ZckSjEufKbWhh_8_F1yjrKYLJ95A8.jpg?r=fe3",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZCNZ49szQmluWhyOrGKFXFAuzfREoPGi-6Z3JC-PJORFdA4BtdrGsKId4jkCP2WpB3l1bUsrgMeI1u77GLQVgWp3nBUrbSyRP4j.jpg?r=c4b",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWG8Qyz1clUrF1r95VePKowskcQWUYTFhKhxJ7n3MMZorlOHK6X5QsHrjUZGY9xEIe7QRsFoWNYivyPvHGTSbMP5G3PMRzT0lC0o.jpg?r=409",
+                    "trailer": "https://www.youtube.com/watch?v=8Qvk4Ux_iTw&ab_channel=DanChaotic1",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABal1VGp55hSDtbsoY3XBBtQaZaU3AKN8bPz7Cc8tAs1MUbpKdxvvaJWJhjYIIpgWg5DtS9xOcsqCiAjPsEYUI1BG80o_tA_WwfqCTL8bC-M3.png?r=cc4"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "73",
+            "type":"serie",
+            "title": "Sonic Prime",
+            "info":
+                {
+                    "year":"2022",
+                    "limit": "TV-Y7",
+                    "duration": "3 temporadas",
+                    "description": "Cuando una batalla con el Dr. Eggman destruye el universo, Sonic emprende una carrera contrarreloj por dimensiones paralelas para reencontrarse con sus amigos y salvar el mundo.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABVg_VwpWpxTwqi3lGt1QchXbTEwt9K8FLvfs3KdcSUCg2MW-pDhFW8-p54ScHIB6Zt99r2FnLXYWbB8vMLLF-xopM_IU3T8dJBENlyGjIPkhQ_ODB-TOkMBSS00FmU4IJvPu.jpg?r=810",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYHb2kD1cDZeAmYOTywhuqAAjYcvFXFpAoq7raOdV3F6eDW5FAGjKcQqWnJ9tZ0Hhsb9LfltUpqS9SVlo6PuyxGWzceJGU72Avn8.jpg?r=731",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYCk1x-svbIADrr3sCrnKym_hoJUTiZRiX1Dub7aWP-erMEIO9MDsyp7NKXHSqVyjZKutM-CoO1kB-zVchj3Ap3of4ao8AYBbrUz.jpg?r=d26",
+                    "trailer": "https://www.youtube.com/watch?v=sHybtsOUfOA&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABTwD8z-CBm8y8tbXvHGaw7DGLHMMad0AjeRfb2eqLBAcbAjMjZAAEDmedAa-5Wo4tezc71s11kTUZp3cyHdxMdbfJ-6c416RLBVCqBTv3hJrQoo2zHm3053FIN2RQDmrMI_PsUdjemPsfdrZ2T2cZaqCIIdDygyfhDCXhWY6QckLLclOuHh5Hg.png?r=d52"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "74",
+            "type":"serie",
+            "title": "Pocoyó",
+            "info":
+                {
+                    "year":"2005",
+                    "limit": "TV-Y",
+                    "duration": "2 temporadas",
+                    "description": "Descubrir es lo que más le gusta a Pocoyó, una serie animada para preescolares llena de color y aventuras.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABZhkz2OLL9W6qHYxKfc-E5mbH9VaYP7B02qcxUlEu23QDDe9ISiUQ3kLLFz3zGwk0hSuDNsHlZQbU8MMvYzlEhp4mrpBw6yNV54.jpg?r=180",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbyCoAST3JiMvd8S1kSZUiwplo1lXc8pldrK03MMMsbJi5sTzoCk9PeZ5X1VJKt5CedHqcmdWgbdC79Con52qjTZpis1iHAwUPh3.jpg?r=8ef",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABafxDoGpzRz87lBWWskkh4Ng010qrdmYE7C6sN8CLGtqdZetuJuSVHvEFgtXrT9dBrP-ipw9FaetnGIYHy2D0uL6SSuE98m7Ja_l.jpg?r=5a3",
+                    "trailer": "https://www.youtube.com/watch?v=oXb4erwT120&ab_channel=PocoyoEspa%C3%B1olhttps://www.youtube.com/watch?v=oXb4erwT120&ab_channel=PocoyoEspa%C3%B1ol",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQf9jaSDmWYmb6OY_ByW-CDhaziNshARA4NX-TgER57LtpfXdeQ0zYEAo_BeY7LjCbiiob70O9b765M8_fGbh3HwGFYNBFUFW1WAnGnKmGUm.png?r=53e"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "75",
+            "type":"serie",
+            "title": "Dragones: Carrera al borde",
+            "info":
+                {
+                    "year":"2015",
+                    "limit": "TV-Y7",
+                    "duration": "6 temporadas",
+                    "description": "¡De los creadores de Cómo entrenar a tu dragón nace una nueva serie que llevará a Hipo y a Chimuelo al borde de la aventura!",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWKSqOeSvHumL9oIofELIepJ2sbxlkICaSwk1RD5xIGx0YpTUXxj4wvL3SQFFS_W3JfsZooldaBPu_DJ9dUuYJaBY6SxnAsLSTngNOfSYOtHRS727Ndm6Puz6DExR1n5-DG1.jpg?r=215",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABe4dU-3raVEZJ2T9EaMLDXN8oy9HQbGQACKciueq54V2nr38f5LqtSreiKBm3rJL5EIl4IBD7zoJnDCuBL_QxccxLCYw0pYQGS4p.jpg?r=3ff",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUmsE4wntBgLO8qoNjuWjMw5QAf0a_sijDyZDOICqvOaGVYBP3NNj6aUBRYaVLifyMGXtU3srCKAHw8BF2pTeWklmYoqOmtg1xQV.jpg?r=43e",
+                    "trailer": "https://www.youtube.com/watch?v=56m2yDQhqoI&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWRZiwmswvRQQWf8zb8wO4RxC-Efl-qJp3T877wnSlJLpLCwiH4X7e_ZgjLJ-Bj9-Q-boYndpPXP6KVBIrr0JypwPHbnFP1mTQiI1tITP0QwCTpnfHuWlg9R5ttbrY3t1Fc4CJG0idTR3_nOPKS_QTMFPDkQVqoKWv2QpeZh0YzPPq22IIGRnA.png?r=df6"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "76",
+            "type":"serie",
+            "title": "LEGO Ninjago: Maestros del Spinjitzu",
+            "info":
+                {
+                    "year":"2011",
+                    "limit": "TV-Y7",
+                    "duration": "10 temporadas",
+                    "description": "Kai, Jay, Cole y Zane deben perfeccionar sus poderes elementales y armas Spinjitzu para proteger las tierras de Ninjago.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeigqKdSqOu8C4efpSJa40hYEF7bZfT_jC_0dW4Mv8NTUtjdzdkClCsIEdMb2qf_LV5HWa1W6lYUM58f-HOlX6-_oQ17lMypaug.jpg?r=3d6",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWAGHsufi2Fh51_HarIjTj4B6PUYLrUrgH6fLBR_lvUr9ZpGjmC7BgSVm4H3Jx0R7RbPJi-_HaJC8JAwIl87uQMDUYR_MVjM2zfi.jpg?r=cff",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZk44-SYoXlNcgmGmppXVAqAfjdO7IB6LGF4sGRjrjw6Wyve156ZX6CPVoa89pvU1vHeWQwv99v_JWfSqSW2xlocmkJIF8vjv4gW.jpg?r=ae8",
+                    "trailer": "https://www.youtube.com/watch?v=BN1xkAB-ugs&ab_channel=vianex32",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABapuOFHxncCncj51tYpqc-1vaWM3YD0Eei0vtkYr4yLHeU_Cq1fSlwPbbwpLXW_bqJQlmytDY6zEhiyXGeX7uLIPbXcgxM15xqvELffQcGVo.png?r=2db"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "77",
+            "type":"serie",
+            "title": "De vuelta en Samdal ri",
+            "info":
+                {
+                    "year":"2023",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "Una fotógrafa caída en desgracia regresa a su pueblo natal y se topa con un viejo amigo, lo que reaviva la llama de un romance inconcluso.",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWgGX1JS6kxYYeklaj6s2hGy9Qlioym0PpZLQgtLXOTsI09Z1iIfRZO_XGsfd-Tmk5qxDNUKTYmWX7oGF7llLGnp69aqgsoxqET6NMVwEHoSNZeX4V6AeLYo5aDQ6bVMQwhrl4D0UcKWPgL0cPXKCLAB5BzzDxsN0hzJQh2xT28D_6YwWRfmzzVgWP2u6lPwVT_W8n7IYyoy1pE5upWNPPr3GDIlPvZBs17TLTcyAJ1myKdrKUy5v7qdNlHeC0jgpthu-2XlndH0nwumIg0ZnJG1l2L9egHFCnfA3-NITAjO2EVhs0Ioe9Bk_p8okqUI3Kj-rSdRIBbNIKzCUhTXYqn-AgmrGDi2KKN1ixUhzhi4Qxh9g0sWZ7a8EcAHyjo8RdrhTutx4b6jvoF50dbhfW1ffuhyvXlScEhFL8iNutLuIgAzga17FOe5aVcRd621zRk4caZytYhp.jpg?r=a53",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeMA7uRSMx78GD0EaMzXipvA9oT6KdqqCiGfYI2LpB6cDJCf-XCdibl8S70ZLy60iJj_XOqPzcOuqNLVGE0gfnJOOowyZToc_o9-.jpg?r=d42",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSR6vq4KXfOvENc_rAS8AtismBdrH9l478HpwKeIN2-T9oRyh-FByG8EZVcUdZQQLpTBxtd17WAQCwPo3yfp_01KMzhUOuESj6BG.jpg?r=32b",
+                    "trailer": "https://www.youtube.com/watch?v=hvPGxLXevhg&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSTUdnT-XweUMkgI39g5kkHB5bNYrQ_nEwFJFO40z1x_a6U2SPknCWlzTCbjMU1sWXm4ZbmozBKF-vKdvGn5ZVY65IAeRIYes3pOG4H02UzLZfCYwPnT9YxsdFHLr_B-BxQPnK7qpm5DATU16uu6MQiuFXe_9LM08m78QrHnpfIrYWM_bG2Ekg.png?r=e01"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "78",
+            "type":"serie",
+            "title": "Mi adorable demonio",
+            "info":
+                {
+                    "year":"2023",
+                    "limit": "TV-14",
+                    "duration": "1 temporada",
+                    "description": "Un implacable demonio pierde sus poderes tras conocer a la joven y arrogante heredera de una empresa. ¿Tendrá ella la llave para resolver su problema... y entrar a su corazón?",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABR1wZDXGh_rSyBXTqIrThtjDbBiSwC99R9l1Z7k76kDls70BMkRoMPD1ixoMis6LfjFaEwuX88ygDqfiVGRbon1qu-VLCaB5lCvXHhw8-Dj8nbL0yfTdTXkbnUwFu4AOwgG7JD4CFjcusZqltssenkjjyATJeKd05p3n_C3MWrLOkHTqS55J4ff0OOLGIOaTIK7fZses9qY5M1n1EVcrCcG87NO4dZxI2C0DwEUhFghmpn4W1gX0yqNmni3FiDc7REyJH6y9cpOKAziExLqQS84yFzQBWAOA3O8cxEds1rcDtcrZ77W3LBBYAE7prQ2Pe7HEyXoUKsNBSX6RDe_J0bok5KHvD8Kn429s45Vc3P8q7dmI9T5A5HMUQR4D1dIdqX3X_EsnpNNS2wDWBR6Es2Hu5kTK00lW7sCFio4bRCYs1idJY3x-WUSZMmfPzRAS-PcX6so6XN4i.jpg?r=744",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfKifMxxzLJt7q_b3OcVgOhuI5bHPnJyISd1MRVhZl1NeLid_TrwhdKtpseVDTC0p1nzXNfqMPw70o1tz7reLPjv3D5D3ASF1Sqd.jpg?r=51d",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABc75Mwi3MXMaS8FD7obpXI0STHHnDeD8XCv6uwMI9qL_nTa6_Ceu6END9ALWu3jj1BEBtFICTon0jbRI2xm2jUdeJbWc-baxYNfG.jpg?r=a93",
+                    "trailer": "https://www.youtube.com/watch?v=Yt5Q2zi-peQ&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABbsl1AGFp-XCYxEfdbciIeYFrFVcEha8DDe5AbM4f9fBd00BsydT6zP0riKZO87uZFFXkDyDkcTxISVy1N9YB8gIEj_oWCy1Hg15B-3R6QlxYBnqRySFu5PnSzBPwWSBNlJXw-RH5Sv_CL5waaXyd8-Pb_jgUHI2YYeG-o7ePpwWdhkxxCuIFg.png?r=8cb"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "79",
+            "type":"serie",
+            "title": "El Chapo",
+            "info":
+                {
+                    "year":"2017",
+                    "limit": "TV-MA",
+                    "duration": "3 temporadas",
+                    "description": "Esta serie dramática narra la verdadera historia del ascenso, la captura y la fuga del famoso líder del narcotráfico mexicano Joaquín 'el Chapo' Guzmán.",
+                    "genre": "De intriga",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdotLB5y3VdoHZ8aQcBFuPJDNvxeFEZvULzyS21Rq2fXw9A8aHyU46TTKuR6XIkkkDvEsC3M1BIdSeXgusC59JGY394QFOgJIcTIjlfGfXwqkl_Y4k76a42ixUHSirrKah9v.jpg?r=380",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABateKb7ahJTTkJf9HqzrpAR943QCZ7LItX87Nges-0LbLsp59EwhgMmgdyhPj2Ri5hJ_-CKs1Z7zHW3YoJfPxmv-UJJIhLfXz8yx.jpg?r=cd9",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTDQdv5_hv15sTBP7Cig2ii3bSDgRni8ABn_qwmbp6hP660ZahZyykMnbbXyIwZAcZHlTML2FHDatx05ZDZLd5f9R0Twdjd42DzQ.jpg?r=e5f",
+                    "trailer": "https://www.youtube.com/watch?v=XsPOzg_AXM4&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZ3BoTGbk8EscbMJeaarRpWmwC4r6en9Se-ZWeEQxsUgKBbm58Z7cdrtfdKfN8Md7rqXTtqDRL7OJF1WWoIO1G0JQ4j4voP4sOEtwOrpfGnaXYdlkunhRLnvzr6w-YtSQJf02kWtObDAtSKg4vsAnI0T14w7TrjiaYzKALm93oYtC46Tw4TCvw.png?r=b08"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "80",
+            "type":"serie",
+            "title": "La casa de papel",
+            "info":
+                {
+                    "year":"2017",
+                    "limit": "TV-MA",
+                    "duration": "5 temporadas",
+                    "description": "Ocho ladrones toman rehenes en la Fábrica Nacional de Moneda y Timbre de España, mientras el líder de la banda manipula a la policía para cumplir con su plan.",
+                    "genre": "De intriga",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXy_9OlaAMqukJpnWDupZLFxSs7U_z8AeUMVtTPFeGHDBMp1sU-63MDfS2lAZIUgjfWPwbIYZZ2_78LKdrMvLYJ74uuOPTQm6-AGxS84xihr77f87uu2hPnjan-ExWSCHNHn.jpg?r=c9f",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZiKiDECQVKxDgP0e096qVNyRi8EXFdsdHovZrov-x4fD-zN8FuJHfhYRFMqkWdIa4VIbMc0zj0qXMMtk3LPgVinN68vptvl3e6v.jpg?r=244",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUTeN3QHU_6vhC7UKGKo1PeLcrBGMWz-XxeR6tmSTAu6AV5E9pdbaclTTRXTAYsU0rejeeLvG-2FpFKHHhIFCbRWCaqWH9rTTo6p.jpg?r=2ac",
+                    "trailer": "https://www.youtube.com/watch?v=3y-6iaveY6c&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABc-Lz5VWQvtOl6Zpx9ltsxhqGcix53cs38POtgZfByjT-b83PzcGtiBNYL4d7ySlhd_161sry1evArYLyu8kwnAnSTzhxe8qWHJFmxIlRWHA3STl9NsFdTtPPUB0G-arVJSCNDlgG9JDP1-GGk9L84VcgBiX4qHGrmhLfy36_tdI3QWEf2NDiQ.png?r=53c"
+                }
+            ,
+            "featured":true,
+            "acclaimed":true,
+            "popular":true
+        },
+        {
+            "id": "81",
+            "type":"movie",
+            "title": "Madagascar",
+            "info":
+                {
+                    "year":"2005",
+                    "limit": "PG",
+                    "duration": "1 h 26 min",
+                    "description": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABS-1B7Dy4VZTqyoqtqNuD9CpKLAry7wTnwNYakEt8g7JWF_c__UGN0KHSvNOsB-5M8TFONZi6Ipmy4rvDcescTbeP1dBLz_B2ao.jpg?r=935",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVg6l2bOkUQr1G5784Tsq3L4FQaNWKRkTYlv_KBlyCbDSwKNpaZYeQKd27LNnzhZ1HiHp-lNRobIH_bkDInRUSOykZdban9rs8Br.jpg?r=3b5",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQTXl1wzfe0T5KP73djH615fnBMQSCOzEF2GZLebaFCoJP54GLHPai7uHg4iC2l-HvhKEYaucRLFjfq4nrIZ85sWm_EJzSXb3JnY.jpg?r=86f",
+                    "trailer": "https://www.youtube.com/watch?v=fq5zU9T_Hl4&ab_channel=PeacockKids",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdaObH-igWMzJlxIBTcjE2v40ZfcitPqSL4TGEhwcfaaAbzmiKk5l2T-ki3fRWwEXt3JC4xXeq3raaCPxoFIJYSB8hVgDdBoldZpGh58kms3.png?r=5fc"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "82",
+            "type":"movie",
+            "title": "El increíble castillo vagabundo",
+            "info":
+                {
+                    "year":"2004",
+                    "limit": "PG",
+                    "duration": "1 h 59 min",
+                    "description": "Sophie es una adolescente que trabaja en una tienda de sombreros en un pueblo como muchos, pero su vida da un giro total cuando una bruja la transforma en una anciana.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYC3-Mslk6kGxpOdgg8gPY0OeLVzZ989SGdkBMsfCXDkWn0s5ie4BoiZCZ9MpgN5GcpyXnhHeL9w_okY0hRy9LX3tulSvC6uuiE.jpg?r=e86",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABf4EIdVf1mfgRGPWjqWj1cvQw8SJCz_g46aClltETBnRxjBK89wuVt1_HsFfcsL-TPBDHp90lKV2cOkCHFSh2zpSAWj9b2UTbn7d.jpg?r=c54",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABd3zLn4YNIGbK8uCA3QaDShxq9iKdalw2xoVEdQKATzA7YQ7uvuTNsYoeglqtc87Q38iPGKcHugyUCoUf4Ep5f9_N646grFZ5Z59.jpg?r=56e",
+                    "trailer": "https://www.youtube.com/watch?v=BCDEOoNYW18&ab_channel=Hakabanex",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcbtqmJDECpfZV2taCZ6HOdsQqV6ZW7YwRYtGxPq5LKj5w0BSVRfspBgQAL7LG9SjwKLyL4g-RL09sYplYVSUjEYsa4WsSE_t9CE4X2IkHcf.png?r=cd3"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "83",
+            "type":"movie",
+            "title": "El Lórax: En busca de la trúfula perdida",
+            "info":
+                {
+                    "year":"2012",
+                    "limit": "PG",
+                    "duration": "1 h 26 min",
+                    "description": "Un chico curioso descubre la verdad sobre su ciudad cuando va en busca del Una Vez, un misterioso ermitaño que sabe qué pasó con los árboles.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABb137P99NdE7UmMQSA7mtoNrnzq344LFFX8UojIQOWhL2YG7DS34VhWFSACPfpgGfMSGMtlPR-0AczRCU2D4R7Msnh8skRor4II.jpg?r=be6",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABX2FLqlbwxCE-EwxPYxsVWSLydAat8R1p8u8w-jSQJKC5PpW3QwDvopR_FB07ViEyuO42oMnxDBkLDqe3gTGootOUj862wpTFvvJ.jpg?r=abd",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcBY4k2KJQl6O8AT_BHwzA5trVEWqCj1aEvk-Z6PYaybqglYDlB_TF_BcHgzNyiiav4gA1qu9eLEYaPOqEhS-v-5ZC6VWy0HJKI6.jpg?r=3f3",
+                    "trailer": "https://www.youtube.com/watch?v=1bHdzTUNw-4&ab_channel=RottenTomatoesTrailers",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABU012d4pi8VZFuBES264gBneSc9ZXQcAypmTJ5Bv85AUPL6A93QVhxvYVkOAFP2xLVekSakuxViB6k_QxgIhD7wt-eWuQuVxrChkg-Fh09lZ.png?r=fba"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "84",
+            "type":"movie",
+            "title": "La conferencia",
+            "info":
+                {
+                    "year":"2023",
+                    "limit": "TV-MA",
+                    "duration": "1 h 40 min",
+                    "description": "Durante un retiro aparentemente inofensivo para limar asperezas, un diverso grupo de empleados deberá luchar contra un asesino sediento de sangre.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABZ-F_pJAc_ljs42Zn3ae92g297ICMGWXem2LSLdfJRlhJX3LyZeLznpL44a0Sy4s-m2A35_MhCpE_J-EM3XtMazp5YzWy0d1oGZR8OtZxPZ7Ze476aL8wR4WKarQgq6aYhwv.jpg?r=ff5",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABR0N5k88oGbx6U2mPAH4LHaav4dGLs2ITfpZkjXmF6pv6wd4uVv3gIPG-OBOZnGj7JmHvb4x3n9qdNwrZa8wjdBjC-My-dcAuLTS.jpg?r=6b7",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcPZzg4ZaKPv3tZe-SiHK47o1ekNRurJ7cfhJsi-X7QwGu-lo03eDFtjYj99FFnYQq2LknvLWab3xxBDApZ6GoClZkdbgtGg99-E.jpg?r=b92",
+                    "trailer": "https://www.youtube.com/watch?v=B9hpl8e-lQ4&ab_channel=Netflix",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABS6gJgUPLCrNSgjMNMMRf33175mv8ES4u8I_KNRd76p77yeJ_QEctUWpEU52AKfvibCEwHk0kY_PghzFdylJb-ZUFEBUa-7FhkgVuK6SW5jzlcAhq8WNe_AsP_K8hB_bH9e4MMCBLBXmEJE1IMDRjNN_DXBBoAEQ1tm1hHvKXAvxUdZOrNmNVQ.png?r=eb7"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "85",
+            "type":"movie",
+            "title": "Amenaza en lo profundo",
+            "info":
+                {
+                    "year":"2020",
+                    "limit": "PG-13",
+                    "duration": "1 h 35 min",
+                    "description": "Cuando ocurre una catástrofe en las profundidades del océano, un grupo de investigadores submarinos enfrenta las monstruosas consecuencias de sus perforaciones.",
+                    "genre": "Sci-fi",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYHhEJ1cuXVJYLFG1jYB8nOOjq1_A5LUrJSS9_4TzefBX-wvfmxi998v2CVxh41rhoI-m5JTGq4hBhSeKBGKOUg-dEw-rDlfrZk.jpg?r=afa",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUInhQmQwfLevDPjUFKhXRAJCbOiSnjZJOQECo4NvbBURyg-QXk3orbUxtpHtunAAfioqAee-0Ccu_WT5olEM-L49Pd9UhJ6wdv9.jpg?r=20c",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYC_aKHvZlVSPKWAPRpPH0YuP5dltSkUkOC8VWKJagwtXvkjMTDHYWYIRSQWhCxoZgvArr73YH7yqmzd6sQiT5fLwj65moljnwd3.jpg?r=031",
+                    "trailer": "https://www.youtube.com/watch?v=3rFbwJJ2dzc&ab_channel=CineMovsTrailers",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS5Jfk2y9SebGvcWg4wlhXo4aE8SorEQgRKoaSinqjIQM8UKqwxW3_Mx1eXTI18qJ_6djJOf12QDqRW3mtllO_tgCuJXh1v9CWvdriKK6tbl.png?r=3e8"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "86",
+            "type":"movie",
+            "title": "Resident Evil: Capítulo final",
+            "info":
+                {
+                    "year":"2016",
+                    "limit": "R",
+                    "duration": "1 h 46 min",
+                    "description": "Alice debe ir a Raccoon City para conseguir un antivirus vital, pero el Dr. Isaacs, la Corporación Umbrella y una horda de zombis intentan detenerla.",
+                    "genre": "Acción",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABcIu4tfSSMClik8pBfTUWoegMer1do-GgtirRl1FZBE6xxwYWs5Yp3ZJO357imiCAyS9jJ1lxOsmWu5zNZrQkY7Qpi46FNB59_k.jpg?r=839",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABShl3V16MLSqDey_AQLJR03T2EzxU4-UIOOl394DNvMbeo4ppXQA5I_AvNKEyg6G95HH8RVcvIR5Hyjomocg6lBd0Ld8c4fgU4gR.jpg?r=02d",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQq3NzmQIU9bNoqv_RQOALzaXrhp9g90XUjBdNKkpcgi5RShKgMJW9hV47j7SlDDr_brvC5KpsKnfjqh3jLoSx0XKxvvbdkOe1zG.jpg?r=ec8",
+                    "trailer": "https://www.youtube.com/watch?v=53X_5zvFL-4&ab_channel=SonyPicturesLatam",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfrTocM9sUqI7X9PE-4l1xGwOHwWD5RNLo5g25dBtE5pLk_fp8IHbxTut06iTqpmsFGj1LqI90Td2ksrAtrDzo7udOtoc3GjBRSN_AnHbvO6.png?r=95b"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "87",
+            "type":"movie",
+            "title": "La masacre de Texas",
+            "info":
+                {
+                    "limit": "R",
+                    "duration": "1 h 23 min",
+                    "description": "En esta secuela, unos influencers en busca de un nuevo comienzo en un pueblo fantasma de Texas se topan con Leatherface, el infame asesino de la máscara de piel humana.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABafCQ-LOQVSvG4x0M5_hjWqEop6qvVnoLLAu9xQEGV5ydcoFMEA4vrX109-ygph-Ct7-GOPmMUfHYHlRTq0ek69WYAypxzobHCkZNI1SGqOljKF1QLMHq45lSDcQHt4SN8j_.jpg?r=6c6",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABW3FSDxrzMfsgwB61Kb6_YPrRKLp-xUawO0amDKCr_EX8Ycyta9Mq7UtnHAyWIRKm-bC4UssSz9ZuFSCVf7bAD1b_BHUKugUhypv.jpg?r=db2",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa1AtoepLPm3zlHXgbV4tmDFqFxcjDN2xJJEFHi9u8BbMdu0MleNJC-CErJOCFJeIosljeCUloUp7f0UbiFvM79PUfTbGHA0HIhA.jpg?r=8ca",
+                    "trailer": "https://www.youtube.com/watch?v=jMCi--w7t1k&ab_channel=ONEMediaEspa%C3%B1ol",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABekhik6iildwkzWiejv8PONkJ3HmmO9K16BsYGgWT5lpoOsBLiAGyE7-lXCJiBxkevzltE5rwXZLpu7uW7tkOn_Q_h10k2owMp6hUax0zccdM7mNqxy6HPD0UiS4r0bx0zpmO_KUs6BC-J6omwlNDZn3ppZTlC54k5Ccs0pRuQDVwX3YtxLK6Q.png?r=a43"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "88",
+            "type":"movie",
+            "title": "Líbranos del mal",
+            "info":
+                {
+                    "year":"2014",
+                    "limit": "R",
+                    "duration": "1 h 58 min",
+                    "description": "Un policía hace equipo con un sacerdote jesuita para investigar una serie de posesiones satánicas que amenazan Nueva York... y a su propia familia.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABTdEtihUJ4zCMZbF7RACEUWjRFeR73oxisB7FFfi1pj7l95oYnO51PAg0e8LWzciFgUlYrfD3tsJtNi59O1IDfXBz0IS2L14o4s.jpg?r=8e6",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSr_zEKmgPamcIxBK0jbvZsDLuWdpOAucZoF6pL37b03gCOo9FCS5d3HnSpga15G1qhcbNslGU_jOhUoW2Ahh5_thkvzF3Asg5oX.jpg?r=3b6",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWGdKGSW0g9ANUR8zTFEpSVPhiFqu1EdLFyo6dMgFvmfk8gZ5Jrc2Wcx7Wdt0WdyFrgUQDigGJQ9C1oTY42wHtzNHYFNwjGYfXrU.jpg?r=5f7",
+                    "trailer": "https://www.youtube.com/watch?v=UAZ12IgDoBI&ab_channel=SonyPicturesArgentina",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXcDf56igJeFwK9Sjr2t8G4xznXGVUMRZgsYCEEkFVpHmjz8l_ufzzn8y8FVKy0GPCYDQSyRbVwZBnfxsCozEl2fBXb7MTdVEdpo_bZAltZQ.png?r=52b"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "89",
+            "type":"movie",
+            "title": "El libro de la vida",
+            "info":
+                {
+                    "year":"2014",
+                    "limit": "PG",
+                    "duration": "1 h 36 min",
+                    "description": "¿Debe seguir los pasos de su familia o el llamado de su corazón? Manolo emprende un viaje fantástico para descubrir el rumbo que podría tomar su vida...",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABWbE5ubpRrlJTOxmNaEzFaexgZrSLrxCb7CzC7nU9MVoZsvSPAHC52x6mLnJiY_or50N7g8x_I7oaw53FGYIJAG8ZWUrUfq8T68.jpg?r=026",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWx0tnKLn55qjp1ZoHNulpDqPtzc6cYyWd25JcpGJ4kqWjOQGO5tEUtEnHKSIR4HOq4uFpk-MvyTGFpjTcyhPb7liO_1-KuFqi1s.jpg?r=5ae",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcasbHY4jE-DZyd2ik-IyL2xk3d302v1jaa5S4RuqL7PQKQXIQ0uekFxmeUm6NiELac-VR8OCslo60IJWiLylOJSpsBOw6lA9qbe.jpg?r=2a6",
+                    "trailer": "https://www.youtube.com/watch?v=JvIvF8ST8CY&ab_channel=20thCenturyStudiosLA",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQ6bDGqzscfAxDF5PZVu6psZl1CXGVvwbrA_5ZZtxGBcxipTjpJqT0P0J3XFx5srALJNQWXnaPjueC8aQdYKQdvktn8RpC26OvG5tV3YfI11.png?r=a02"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "90",
+            "type":"movie",
+            "title": "Una esposa de mentira",
+            "info":
+                {
+                    "year":"2011",
+                    "limit": "PG-13",
+                    "duration": "1 h 56 min",
+                    "description": "Tras años de fingir estar casado, un cirujano plástico soltero conoce a la mujer de sus sueños y le pide a su asistente que se haga pasar por su futura exesposa.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdQYfzpcsIiaQdItRR5Io-J4vAQ1_PkJk2UWTXok99oQ_QO5QVkCxpiuwSxlVrj1bTUb27nvgrrCAtq1IRZJjn17DHG-PZmOLDE.jpg?r=7fd",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbtbyGBtBLba1WKiZJ_sf4drOwh_BJ8Fd0xkYElzAOLv32WRaANtlADWnFkhlRW43MLtWBWl1IspfUq59Ow0nqIA0Xhd3aJ_Owww.jpg?r=764",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYK0T3XFHdC6aADwEMn-JtFEmyPOhHLU-xYO5aRs5MuSACUoPSJPrk74Kn1iZptKC9OhiswVamaFTnEYj2VWHyD5tOl30PjE1fwH.jpg?r=471",
+                    "trailer": "https://www.youtube.com/watch?v=xuZnmYjAKww&ab_channel=SonyPicturesM%C3%A9xico",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABboGpww4fsDvjPxvZ7NQEMIilWuMevGKk3cmByi2ycLb13EmYAUmIXz6H0nHwQzFyQR6u8Au3TzCs53EwzySy4gl-s7n_vX648TprK5nw-1x.png?r=efb"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "91",
+            "type":"serie",
+            "title": "Siempre el mismo día",
+            "info":
+                {
+                    "year":"2024",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Tras pasar juntos su última noche en la universidad, Emma y Dexter toman caminos separados, pero sus vidas nunca dejarán de estar conectadas. Basada en la novela de David Nicholls.",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeYFDYPvD9Mg5We79gDVmRm1MPwe7zOhU9A9krBZOlR3rFTjD2uZLQXctaYgVecD-0OYZrYHtQb9KWl-iydHOJV0bTs_mumpFzJ6sLOyGv3VaSkR5qSfRDCyP8IpOBsOBnE2gspkojUJpxwC-akFZKGs3tF6RIVXjwnVpkId0IFVD4f2VFW_5E-sSdL9Ras.jpg?r=c0b",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZQc-ah-v74qtHaBxjnAhmfGkWFtx37wz2gOhQAxlN12IQR5lkK-nmsXk4Gj8_gzjaOmCv86wU1X1GR4ihN11-uR83Bfe6yA3hsu.jpg?r=baf",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZqGfDM02Yq1fYZYLZ8ur_M4owLYdzSZWispoQdeYOXtthJqeWSqzsfGFXyVINo1kP2dKQEFZJdkHgXma25zKxiobFbTVx5LTKBf.jpg?r=a6d",
+                    "trailer": "https://www.youtube.com/watch?v=h2u-U9FTD5Q&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABe_R_cU8bvpv-TfK2r7ZKxtWOnGMHYPVa3XLizU1-uSDfkSm61jzXXs0uHCPxBOBxCARy28QKgrlIMcKD4GzZbXkx2-pv_QWTrRSXVvvmcwK-vci9hB80TNyLctCpfSJPi6nVIyuAlWfq8DoMOLusOG_m8Eds94aIChEguR6EKFoGxe64_fQpQ.png?r=62b"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "92",
+            "type":"serie",
+            "title": "Dulce hogar",
+            "info":
+                {
+                    "year":"2020",
+                    "limit": "TV-MA",
+                    "duration": "2 temporadas",
+                    "description": "Cuando los humanos se transforman en monstruos feroces y el terror se apodera del mundo, un puñado de sobrevivientes lucha por sobrevivir… y aferrarse a su humanidad.",
+                    "genre": "Terror",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeKT9PIAN_PnZFE_7vHxKIvkcTqu9P3Uu7f7U20gtWfpFhMEPIGXazXZCyOxPEl3QNP5y34HYOGSC3qLxHLUAEfolI8TTe0I2PxPZKzE5fEqzqRer96R4Yl2lnc-_N7mo2Pm.jpg?r=365",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQNUQPIq031pUCTq3uNpLo7XMA9YK_O7smQ3W4KvqlmS7ToPQc6eX1gQgXGdlmULEAf1PxudMLSUhDW1RpBtHrkhD6hfdoVywCQ3.jpg?r=fa4",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcRnuiBemJ9Jrk69JMQGZnhHqkgA6U8xFXn_FK0GLEkb5L2JLQykYF61Lr1nScKUxle3uSVjxGNxPR0wI0tfNxm43g43c-D1BXCj.jpg?r=4ba",
+                    "trailer": "https://www.youtube.com/watch?v=1jVvZhmz-yM&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABdpK6G5cw0Ix1J3fo2GTvWyNRy-DH2w2aSVT1Q4VuG14qDBw8HG1qeqd9sQV4kxx4ksv-nc20LwzxQ6JcLzY43lj5FIXB73Dn6tniGj-a-y2UyrawxZMlrdBV-pmlSGD1w7cCBJLyatRKUo0QCcsA0IDY0tB0hfsu5eUsQhwv2bQTbN6c2ga5w.png?r=256"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "93",
+            "type":"serie",
+            "title": "Pasión de Gavilanes",
+            "info":
+                {
+                    "year":"2003",
+                    "limit": "TV-MA",
+                    "duration": "2 temporadas",
+                    "description": "Tres hermanos buscan vengar la muerte de un ser querido, pero se acaban involucrando emocionalmente con las hijas del responsable.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABX25-dNbyR_LKpQP9livik8-BVz9m_uCubYLj0vNbky05rS0oXYnEQQg-AEmB4wtA-1KiFk42xTnFPKyAFhkku1-DPMNMUGwdGo.jpg?r=eb3",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbvtPDf1_0Fb1dQJoxL1nYVDH2oEI4X3sRTlWNHNvx0yBRhBr_fz3S4Cy0ic68Hee_10wP7J3Uz1pInOQlip8OOogIeXktSTh3Kw.jpg?r=d82",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbaO-3MIgd0XZK39zN4pazH-qbP3laiWVZyTxgspCQplOTMp7apzxOZ4n3TEQbRhz3z6Kxv3hh6bP_SXujLoqtEYAxFYTolCOuEj.jpg?r=5f6",
+                    "trailer": "https://www.youtube.com/watch?v=c0vVUkTQbw8&ab_channel=TusTelenovelasOnline",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdFcHhskyOMeADkGC0s8NlzQ0-oiYZC8aDrGFqLtBzDBxbIR1JaZ4xIv7RZWEgm1DacrKPIDiTMO1-abIKzBmYZ6XFNeLQ88qjykeoeQ4os6.png?r=bf7"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "94",
+            "type":"serie",
+            "title": "La paradoja del asesino",
+            "info":
+                {
+                    "year":"2024",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Cuando una muerte accidental lleva a muchas más, un joven común y corriente y un astuto detective quedan atrapados en un interminable juego del gato y el ratón.",
+                    "genre": "De intriga",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXnwCfzYGijlJ2BC_AIFzVUpm7cqSTemi6JoUawJBZUiMtyuqCXAhHLPJXsx325avqf0Zncs-KrYHBEhjtWuo6HIoR7QeXvRxPgRl-SJkzTIKK3l4AjFTiHaEN07NPSHT_2xE2hjbAQwgxYIDGGQAsF-G0Szo7D49aaS97Beyg0_0Pe9_dcdM9jTHdfBzhY.jpg?r=65e",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd6VwKkGxEJyPCjYxfDYiwDg6Gp3ZzPx0EK-lzVmUpq58qkngUJOqjs7psVlre7fqpFo60SiFIbA-xbLSeQ__yFjIQiCLbrOf5Yu.jpg?r=397",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZJOMi67qYF9agnE3CWAPJbspCdQIC2yp-3NdqPx2lBSC_aU-z0NsuFpmHm4FXFOGjIuDwlbuGJhogBEog0WVtw-3F-MQGP3TnQ4.jpg?r=281",
+                    "trailer": "https://www.youtube.com/watch?v=2UbTv4O4AZs&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABUa-XpqMhxf1H58_BN5MYTKNydIWF29UGO2mtQ-M4C2Yo0RH6gJFjzbIq1C6nmxszoJXA4m5BwOl6x01LNep5y1CtJNLfLcCGR93mDJBpFLn-4hgRmd0R4ZCbAM9hcR8IYZk26Cy1oqY8MTDwBx2yGItzEA42UJmgmqgUMPzvWU8QJVrQOC4Cg.png?r=44b"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "95",
+            "type":"serie",
+            "title": "Un show más",
+            "info":
+                {
+                    "year":"2010",
+                    "limit": "TV-PG",
+                    "duration": "3 temporadas",
+                    "description": "Los amigos Mordecai y Rigby hacen tonterías para pasar el tiempo en su empleo de guardaparques… y también viven aventuras inesperadas.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABQK1woBcHQ6LUYrG6RzbgXwRvFWgh-Z_A1fhz1LVmv9unJyLWkjn3B0tGzsBIPR91XQmZTMed7TO38HkiZPWTDWydR-YVNxtJBxkUWrVQsZSw3E4QIB3ccRKoSQd_ngKCn_357O0A2Epg9DzXsAvFugQhhlfQiLnmyw.jpg?r=72a",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfDFD3Pg0bx6eq1BBZPndRr7i3uDjcGxvd-MeSLCvN6KFDozOZsTkVJquzjdRbyu_cS63zsK66iAhDI3-Zb4jq4d9DSIb6zXRhve.jpg?r=2ee",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABR-DqP0XumtgzD0AlkRL-GWEOeUm5X5oToPhI4NiPFt9Zd2r2Rh3Y-__WqhuH_mKoeuo8vPyhZpP_GQXwyJD0yiIFWgsDmlOdSy8.jpg?r=4fb",
+                    "trailer": "https://www.youtube.com/watch?v=nBIx2r6iZ20&ab_channel=CartoonNetworkLA",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUFj8hQwN0WAajH71paBQFKECx6wFLKUWQAHN2zkBwcn6a5gTvrhZyY2ILYOwCGWVjLQIU1XyVMnTbtZMc9yYMwuNkvwiMT3Zzj_hI0x6Dcf.png?r=8c2"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "96",
+            "type":"serie",
+            "title": "Sex Education",
+            "info":
+                {
+                    "year":"2019",
+                    "limit": "TV-MA",
+                    "duration": "4 temporadas",
+                    "description": "Por tener una madre terapeuta, Otis siempre tiene respuestas cuando de sexo se trata. Así que su rebelde amiga Maeve le propone abrir una clínica de terapia sexual en la escuela.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABeb72c9RdKlBeEC2prp9fKifj9yZeYJ5ISRDYIBZeHVfMN1cxvxMMrQA3V0Ut10KaIioOw23m6ZJrNIpV08Rueud0r8SQ39-o0aBXlCIBYtQa0DKxw7FCaejcnxLE4IQtujo.jpg?r=589",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABegid7T9uJLAYUI0t7lrfRBdyxPrOhCnei_2n1eZevQVJo6rhZMi9ByrM3ywIrDuYDPY8-fXWMKnK8zuIoBDyZ6PeTl2v0TtWohV.jpg?r=a45",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXA5rAP1iZG1T-MuBP3o6hDhlzN_VDQrs40tEjtppisay-AJUpoqt_rJMMnKDK499tUg51oyYFh0uzZMQIr8hXqcOtO-0o8VNr_1.jpg?r=946",
+                    "trailer": "https://www.youtube.com/watch?v=d9_JFVv9ycc&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVa7i2dIArwrM1AoelZjlfeKvaoS8cGSM-BfH1N1HLT99awz1khcBnLWELS3PzjD3OB_gXPZEDTG7fWt9r6SzhsvxIgOSVSDRQmZH_FHjBYoeDXnnyDP8qsDZXHrLOBks2nkbySaMtSw2KHPPV2_OoOgAFdmEozulnI4boH-obw0yoSQtq7tHA.png?r=d88"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "97",
+            "type":"serie",
+            "title": "Nam-soon, una chica superfuerte",
+            "info":
+                {
+                    "year":"2023",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Una mujer con fuerza sobrehumana regresa a Corea para buscar a su familia biológica, pero termina envuelta en un caso de drogas que podría poner a prueba su habilidad.",
+                    "genre": "Comedia",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABSYi-D63Xk5BYJEQJtWbMiLMicmEhN1hf2rdntIP2Rc53B5_7CNLS0zZ5gWcQVfJ2pX23IQlXJ7NrXO1SGUI-w8Q3Jy00Kl1rogEyP2tDSHkHPgr6gXWytDsqTAbVn2DnjEE.jpg?r=655",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQMarILGUvMY0DtzFuevrBDAeOn2trY682S2PhHHfPlxU9OIXQJ-McRIafF6hTWb1te1rAsHqEZqubd5AXaq7R3C74dC43A33k-j.jpg?r=dc2",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABURMZ7Fs4QPdKAyCWSqJKWwF8Bn2ev71yZ0ihfR19yE-6zvGE8hMxy8l4zUSUIba7rOeDYeLtNsUr02LcSYTp_A3v2r_hUp75G5a.jpg?r=a5b",
+                    "trailer": "https://www.youtube.com/watch?v=qR3H-QrnKoY&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABeWUPj72qsr8GJqCG72fBAbwbzvJC0z9GQqtxdKfAiFA5q1_SpGR8UmHRh1WSGMzGdfE89od4sPzNluBFgLFAbiBqWGJzO40W3CLmlng-GgbMyx1DSaoZ_Nspsaxx5xpePDNLZ2Z5wAVDci3t_eAkWV0b10O8S3HF2ISUXYMuT-_kCRCBebjrQ.png?r=ef6"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "98",
+            "type":"serie",
+            "title": "El peso del amor",
+            "info":
+                {
+                    "year":"2015",
+                    "limit": "TV-MA",
+                    "duration": "1 temporada",
+                    "description": "Luego de 15 años de relación, su novio la dejó por haber engordado. La venganza es un plato servido por un atractivo instructor personal que dará vuelta su vida.",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABUIaj8JRN5z5VmrHbq-39tq1CswmPK8eHy56Rge1seJiqWMzYlV33bdCXIz-HYJB9_KobQI7F3OoJqay3UOGFEUJF7O7RU79C54.jpg?r=f2f",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQos6TwCnq8qG516xBYw5ax5RrKxSTh6VPDkO7o-1deOdk3fnAY6n_euktuTFKIEQUEbpJZ1RxwCnVIDdATPkY8vaJP5zh3UbEpG.jpg?r=ee1",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABV9MLUWFKD-nfnSlVzCoqmfCANLlU1HNoBbqYLXKwh8NVtTIIzPWuL2llwgmJOcCsepFileO30yFvrmEqZ3KfX5QBW47fnn9CI56.jpg?r=205",
+                    "trailer": "https://www.youtube.com/watch?v=uMtaHlC49jk&ab_channel=KBSWORLDTV",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYJc-tglNcFWM7q1WXZFzenLhTZ9ABJblh1zduUmDaLKVdTFDMiosnQk_HholzTPmxYilk4QNUlUAPaxyKlrM3shfuWBGKr9kl7lXthKfv5n.png?r=334"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "99",
+            "type":"serie",
+            "title": "Miraculous: Las aventuras de Ladybug",
+            "info":
+                {
+                    "year":"2019",
+                    "limit": "TV-Y7",
+                    "duration": "5 temporadas",
+                    "description": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABYBkd_2ODA2RHzb0mzQMVpm87nQAm59vxqp2lhIO9oF_1qkAdEP8RfUNnt8HONEoYAi0pq-QF_ensiaLCEHnHaTMoMGF2g0-Gq0.jpg?r=4ea",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcPViuok_8Ys_IU3QwDylqkocvDdgIhUHPD7AqllJE7eFlsdinIg0RGAHxnzY-HmF2ML7K4MkgOsQCWNwLm33gJCgangODJP2bGz.jpg?r=a37",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYB2shuw9IritNH88oc9EBDNSfMbark3QJ6Qa6lKiVEu1IwdLpZ47nS9z43Dh58mQF3oYYJ3h5na-yInn7gHv4lYIanPSuIAkgim.jpg?r=efa",
+                    "trailer": "https://www.youtube.com/watch?v=OzAoGlARPFQ&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUQcIEps-d2TlcC-LTvasNsxYOihXiPBrv2GZH9s7QHDoxL2-VXnph_2YOFUpIV_uLTDAlZcQ00Z-J56N-FGkOGzEoXL5sgGZnLGju1oGI9W.png?r=259"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "100",
+            "type":"serie",
+            "title": "Better Call Saul",
+            "info":
+                {
+                    "year":"2015",
+                    "limit": "TV-MA",
+                    "duration": "6 temporadas",
+                    "description": "Una serie nominada al Emmy que deriva de 'Breaking Bad' y sigue la metamorfosis del abogado Jimmy McGill en Saul Goodman, el asesor inescrupuloso de Walter White.",
+                    "genre": "Dramas",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdLPPXD2iFRnnt8kxjlbCUykJlFCBP0WQN81HCDgnCPY1nLEncq3ydGeigepztokxVsQjuYTXhcZZ9SL1XVG3JRCBMgAkufz9nQkMfjirwaVYrDkwin1Sd1feu7zax6fbBdL.jpg?r=4f3",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcuF-ASdk8ggKxXR_kgnbvX1BAotwohyNYWx_jn7ixfCdiToeoYBnF_pXm8sLOqG-yy9Rgu4dUtjKdaiX9QlT4j-tUKRmBouW4zz.jpg?r=a9c",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaY_yLL0a_nUG4szgA2aG1G0NxvaGgd_LDa3LJw3BVpoydsWEDPjz6MQTFbWjehzZcHOQNCM0-PugRCeLzZgPzu89lVYwCaYfCOD.jpg?r=0e1",
+                    "trailer": "https://www.youtube.com/watch?v=30RIP7LYPXg&ab_channel=NetflixLatinoam%C3%A9rica",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABbr0T2FvIbuVMpXhOxgfgd3i4N5BzKwetXqa2JNDcJf3miGUlSt2BKp9qE5ngr-2jkCELb6-6xwHhte1gcQC6ES2VhxDwgfxBpldCd8rBFZwMKxsHzIFmkTSKF9KYUFyZkgNS_mNrLFDV4_Nz_8e_YF3px-RUnr4sg5TRNHFAtvVVMr9FLpong.png?r=d23"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":true
+        },
+        {
+            "id": "101",
+            "type":"movie",
+            "title": "Matilda",
+            "info":
+                {
+                    "year":"1996",
+                    "limit": "PG",
+                    "duration": "1 h 38 min",
+                    "description": "Cansada de los malos tratos que recibe en casa y en la escuela, una niña superdotada usa los poderes que recién descubrió para defenderse a sí misma y a sus compañeros.",
+                    "genre": "Infantil",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABdcqEVDbHCvhFSOEZOMh-TTOfAQc6UwH1fCsd51MU2r8NGiE4FQ9ZBKKGk_rLonTSwtDna_TNxbNdtXA7-4dv0AeDmxbA60x5tA.jpg?r=cea",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeqg2bL-_hPm8pWJ4qOU9NX2MEHYvGLmJHKoUJztUtsgFyo0YX5X3EJNex_mXRqsXULR5g_P0TLTqzPaDIoduFdyHrOr01RGg2YO.jpg?r=ffc",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbuUJUgPdMPPh-qPkiHasMkhH1dI_B8-OpcDNEcAuc6aXwW8MjVg4NmWUnS-rQpMP6JTbeJ0LncNxTnEmpZPqymeOcspVcwIiZcs.jpg?r=d96",
+                    "trailer": "https://www.youtube.com/watch?v=hUGHWje7liM&ab_channel=DvdAmnesty",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbpANL3858jOZ7daZ8B_SVcxfDet6oTz5pgSqR1XQlLTXVjh5YojXv4xyxj501_yKhTP3TPlbXafpnROu8e4PkgfFojS6SPVdCjH6LhoWdmN.png?r=5fd"
+                }
+            ,
+            "featured":false,
+            "acclaimed":false,
+            "popular":false
+        },
+        {
+            "id": "102",
+            "type":"movie",
+            "title": "La agencia del desamor",
+            "info":
+                {
+                    "year":"2024",
+                    "limit": "TV-14",
+                    "duration": "1 h 36 min",
+                    "description": "Un periodista participa de mala gana en una terapia para el mal de amores con el fin de escribir un artículo… y termina abriéndole su corazón a la terapeuta.",
+                    "genre": "Romances",
+                    "thumbnail": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXAhMdI6P8LKReUiotV0OedW59OLXDWWVqkqNxHLgvs7KmzNIny8JMyWUxpZTZEvIOPxgmxEKIs-XWmgmxLsC1_DZHHwwVAxxoAZiMwFZ-oZ18ekyla6ya1RZwzFX7C0gjwE.jpg?r=0bf",
+                    "poster": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdp38QGRsRnYvZbPsqAAlkd32vf05VmcvMCjuAJvRvRQr6rdOUmy-hRlOqafigh2oSL94qgeTfI8tMYk7xLZljVsInnheoXyWOlM.jpg?r=611",
+                    "poster2": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABd4AtSvF4RCvBSQswDw6Et9-fuhT6X2busDCetq31XO3LkRL2CkTRY4YAJLBBWqDcQeKjm1-vH56SB-yszhXWk-5-XJOVZWWVjKB.jpg?r=b26",
+                    "trailer": "https://www.youtube.com/watch?v=aivrjQF6RK8&ab_channel=MVSRS",
+                    "logo": "https://occ-0-5175-37.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABbS9XmmLoCK3-ubXus6MyC3Q0nUqZdAx__CbRjdXHfSGhHlQajF5yvc3HBblVN8M11L1lQrOgZoVcWFmfACEsD99OhTULb87oEyNQZeLkpbfvLqyMsszlQ9I1rzxm2SV6pGdm1HzNhZx6QOMeoM_AZpG8YV8FRJAiU0KtVk-3c4OxGYXiMYX3g.png?r=d49"
+                }
+            ,
+            "featured":true,
+            "acclaimed":false,
+            "popular":false
+        }
+     ]
+}

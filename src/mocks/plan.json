@@ -1,0 +1,41 @@
+{
+    "plans": [
+        {
+            "id": "1",
+            "plan": "Premium",
+            "quality": "4K + HDR",
+            "price": "MXN 299",
+            "video": "Óptima",
+            "resolution": "4K (Ultra HD) + HDR",
+            "audio": "Incluido",
+            "devices": "TV, computadora, teléfono, tablet",
+            "numDevices": "4",
+            "downloadDev": "6",
+            "ads": "Sin anuncios"
+        },
+        {
+            "id": "2",
+            "plan": "Estándar",
+            "quality": "1080p",
+            "price": "MXN 219",
+            "video": "Buena",
+            "resolution": "1080p (Full HD)",
+            "devices": "TV, computadora, teléfono, tablet",
+            "numDevices": "2",
+            "downloadDev": "2",
+            "ads": "Sin anuncios"
+        },
+        {
+            "id": "3",
+            "plan": "Estándar con anuncios",
+            "quality": "1080p",
+            "price": "MXN 99",
+            "video": "Buena",
+            "resolution": "1080p (Full HD)",
+            "devices": "TV, computadora, teléfono, tablet",
+            "numDevices": "2",
+            "downloadDev": "2",
+            "ads": "Algunos anuncios breves"
+        }
+    ]
+}

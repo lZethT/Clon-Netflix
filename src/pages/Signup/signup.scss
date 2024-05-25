@@ -1,0 +1,1004 @@
+.layout {
+    background-color: #f3f3f3;
+    height: 100dvh;
+    .header-sg {
+        background-color: #fff;
+        height: 90px;
+        border-bottom: 1px solid #e6e6e6;
+        display: flex;
+
+        .icon {
+            display: flex;
+            align-items: center;
+            width: auto;
+            flex: 0 1 auto;
+            margin-left: 3%;
+            flex-basis: 50%;
+            .NetflixIcon {
+                width: 85px;
+            }
+        }
+
+        .login {
+            display: flex;
+            align-items: center;
+            justify-content: end;
+            color: #333;
+            flex-basis: 50%;
+            margin-right: 3%;
+            
+
+            span {
+                color: #333;
+                font-weight: 500;
+                &:hover {
+                    border-bottom: 1px solid #333;              
+                }
+            }
+        }
+        
+    }
+
+    .container {
+        height: fit-content;
+        overflow-x: hidden;
+        min-width: 320px;
+        .new-user {
+            height: 100%;
+            .slide-in {
+                height: 100%;
+                animation: slideInFromRight .4s ease;
+                .prev-btn {
+                    position: absolute;
+                    font-size: 2.5rem;
+                    margin-left: 10px;
+                    color: #737373;
+                }
+
+                .simple-container {
+                    padding-bottom: 95px;
+                    background-color: #fff;
+                    width: 100%;
+                    height: 100%;
+
+                    
+                    .center-container {
+                        display: block;
+                        box-sizing: border-box;
+                        margin: 0 auto 15px;
+                        max-width: 978px;
+                        padding: 20px 3% 60px;
+                        height: 100%;
+                        .info {
+                            margin: 0 auto;
+                            max-width: 440px;
+                            text-align: center;
+                            height: 100%;
+                            max-width: 340px;
+                            .logo-container {
+                                display: inline-block;
+                                width: 100%;
+                                height: 100%;
+                                .logo-plan {
+                                    display: block;
+                                    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/simplicity/Checkmark.png) no-repeat 50% 50%;
+                                    margin: 100px auto 20px auto;
+                                    background-size: 50px;
+                                    height: 50px;
+                                    width: 50px;
+                                }
+                                .logo-devices {
+                                    display: block;
+                                    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/simplicity/Devices.png) no-repeat 50% 50%;
+                                    background-size: 260px;
+                                    height: 90px;
+                                    margin: 100px 0 20px;
+                                }
+                                .logo-end {
+                                    display: block;
+                                    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/simplicity/Checkmark.png) no-repeat 50% 50%;
+                                    margin: 100px auto 20px auto;
+                                    background-size: 50px;
+                                    height: 50px;
+                                    width: 50px;
+                                }
+                            }
+
+                            .step-header-container {
+                                text-align: center;
+                                .step-header {
+                                    display: inline-block;
+                                    .stepIndex {
+                                        font-size: 13px;
+                                        text-align: inherit;
+                                    }
+
+                                    .stepTitle {
+                                        font-size: 32px;
+                                        margin: 0 0 0.4em;
+                                    }
+                                }
+                            }
+
+                            .enjoy {
+                                font-size: 18px;
+                                margin-bottom: 0;
+                                margin-top: 0;
+                            }
+
+                            .desc {
+                                font-size: 18px;
+                                margin-bottom: 0;
+                                margin-top: 0;
+
+                                .checkmark-group {
+                                    display: flex;
+                                    flex-direction: column;
+                                    justify-content: space-between;
+                                    margin-bottom: 20px;
+                                    margin-top: 15px;
+                                    text-align: left;
+                                    padding: 0;
+
+                                    .checkmark-group--row {
+                                        align-items: flex-start;
+                                        display: flex;
+                                        flex-direction: row;
+                                        justify-content: flex-start;
+                                        margin: 0;
+                                        margin-top: 20px;
+
+                                        span {
+                                            font-size: 18px;
+                                            margin-bottom: 0;
+                                            margin-top: 0;
+                                            font-weight: 300;
+                                        }
+
+                                        .check-icon {
+                                            font-size: 2rem;
+                                            color:#e50914;
+                                            margin-right: 3px;
+                                        }
+                                    }
+                                }
+                            }
+
+                            .btn-wrapper {
+                                margin-top: 20px;
+                                .btn-next {
+                                    width: 100%;
+                                }
+                            }
+                        }
+
+                        .reg-form {
+                            margin: 0 auto;
+                            max-width: 440px;
+                            text-align: left;
+
+                            .message-container {
+                                text-align: left;
+                                background-color: rgb(216, 157, 49);
+                                margin: 10px 0;
+                                border-radius: 2px;
+                                .message {
+                                    width: 100%;
+                                    padding: 17px 0px;
+                                    .info-container {
+                                        .alert-info {
+                                            display: flex;
+                                            align-items: center;
+                                            width: 100%;
+                                            height: 100%;
+                                            .icon {
+                                                display: flex;
+                                                min-width: 1.5rem;
+                                                margin: .8rem;
+                                            }   
+                                            .alert-wrapper{
+                                                flex: 1 1 auto;
+                                                .alert{
+                                                    text-wrap: balance;
+                                                    font-size: 1rem;
+                                                    font-weight: 400;
+                                                    border-radius: 0.25rem;
+                                                    color: rgb(0, 0, 0);
+                                                    .alert-link {
+                                                        text-decoration: underline;
+                                                        color: black;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+
+                            .step-header-container {
+                                .step-header {
+                                    margin-top: 20px;
+                                    .step-indicator {
+                                        font-size: 13px;
+                                        text-align: inherit;
+                                    }
+                                    .step-title {
+                                        font-size: 32px;
+                                        margin: 0 0 0.4em;
+                                    }
+                                }
+                            }
+                            .title {
+                                font-size: 18px;
+                                margin-bottom: 0;
+                                margin-top: 0;
+                                display: block;
+                            }
+                            .info {
+                                font-size: 18px;
+                                margin-top: 10px;
+                            }
+                            .userData-container {
+                                margin: 16px 0 20px;
+                                padding: 0;
+                                display: flex;
+                                flex-direction: column;
+                                gap: 10px;
+
+                                li {
+                                    list-style: none;
+                                    margin-left: 0;
+                                    
+                                    .input-container {
+                                        position: relative;
+                                        display: inline-flex;
+                                        flex-wrap: wrap;
+                                        vertical-align: text-top;
+                                        width: 100%;
+
+                                        label {
+                                            position: absolute;
+                                            z-index: 1;
+                                            white-space: nowrap;
+                                            overflow: hidden;
+                                            text-overflow: ellipsis;
+                                            transition-property: top, font-size, line-height;
+                                            transition-duration: 250ms;
+                                            pointer-events: none;
+                                            transition-timing-function: cubic-bezier(0.9, 0, 0.51, 1);
+                                            left: 1rem;
+                                            right: 1rem;
+                                            top: 1.3rem;
+                                            font-size: 1rem;
+                                            font-weight: 400;
+                                            line-height: 1.5;
+                                            color: rgba(0, 0, 0, 0.7);
+                                        }
+
+                                        input {
+                                            width: 100%;
+                                            color: inherit;
+                                            padding-right: 1rem;
+                                            padding-left: 1rem;
+                                            padding-bottom: 0.5rem;
+                                            padding-top: 2rem;
+                                            font-size: 1rem;
+
+                                            &:focus:required:valid {
+                                                outline: none;
+                                                border: 1.5px solid rgb(12, 136, 73);;
+                                            }
+        
+                                            &:focus:not(:placeholder-shown):required:invalid {
+                                                outline: none;
+                                                border: 1.5px solid rgb(193, 17, 25);
+                                            }
+                                            &:not(:placeholder-shown) {
+                                                outline: none;
+                                                border: 1.5px solid rgb(12, 136, 73);
+                                            }
+                                            &.invalid {
+                                                border: 1.5px solid rgb(193, 17, 25);
+                                            }
+
+                                            &:focus ~ label
+                                            {
+                                                transition-timing-function: cubic-bezier(0.9, 0, 0.51, 1);
+                                                top: 0.8rem;
+                                                left: 1.1rem;
+                                                font-size: .8rem;
+                                            }
+
+                                            &:not(:placeholder-shown) ~ label {
+                                                transition-timing-function: cubic-bezier(0.9, 0, 0.51, 1);
+                                                top: 0.8rem;
+                                                left: 1.1rem;
+                                                font-size: .8rem;
+                                            }
+        
+                                        }
+                                    }
+                                }
+                                .error {
+                                    position: relative;
+                                    display: flex;
+                                    align-items: center;
+                                    .icon {
+                                        position: relative;
+                                        color: rgb(193, 17, 25);
+                                        font-size: 1.2rem;
+                                    }
+                                    span {
+                                        padding-left: 3px;
+                                        position: relative;
+                                        color: rgb(193, 17, 25);
+                                        font-size: .8rem;
+                                    }
+                                }
+                            }
+
+                            .btn-wrapper {
+                                margin: 0 auto;
+                                max-width: 440px;
+                                text-align: center;
+                                button {
+                                    width: 100%;
+                                }
+                            }
+
+                            .note-container {
+                                display: flex;
+                                flex-wrap: wrap;
+                                margin-top: 12px;
+                                padding: 10px 10px;
+                                border: 2px solid #747474;
+                                border-radius: 4px;
+                                background-color: #f1f0f0;
+
+                                .note-title {
+                                    font-weight: 500;
+                                }
+
+                                .note {
+                                    margin-top: 3px;
+                                    font-weight: 400;
+                                }
+                            }
+                        }
+
+                        .payment-container {
+                            margin: 0 auto;
+                            max-width: 500px;
+                            text-align: center;
+                            .payment-header {
+                                margin-bottom: 20px;
+                                .stepIcon-container {
+                                    display: inline-block;
+                                    background-size: 50px;
+                                    height: 80px;   
+                                    .icon {
+                                        display: block;
+                                        height: 100%;
+                                        width: 82px;
+                                        transform: scale(0.5);
+                                        background: url(https://assets.nflxext.com/ffe/siteui/acquisition/simplicity/Lock.png) no-repeat 50% 50%;
+                                    }
+                                }
+                            }
+                            .step-container {
+                                .step-header {
+                                    margin-top: 20px;
+                                    .step {
+                                        display: block;
+                                        font-size: 13px;
+                                        line-height: 19px;
+                                        text-align: center;
+                                    }
+                                    .step-title {
+                                        font-size: 32px;
+                                        margin: 0 0 0.4em;
+                                    }
+                                }
+                            }
+
+                            .info-container {
+                                margin: 0 auto;
+                                max-width: 440px;
+                                .extra-title{
+                                    font-size: 18px;
+                                    margin-bottom: 0;
+                                    margin-top: 0;
+                                }
+                                .extra {
+                                    font-size: 18px;
+                                    margin-top: 10px;
+                                    .extra-1 {
+                                        font-weight: 500;
+                                    }
+                                    .extra-2 {
+                                        font-weight: 500;
+                                    }
+                                }
+                            }
+                            .btn-container {
+                                min-height: 50px;
+                                .btn-payment {
+                                    background-color: #fff;
+                                    border: 2px solid #ccc;
+                                    border-radius: 5px;
+                                    color: #333;
+                                    cursor: pointer;
+                                    display: flex;
+                                    justify-content: space-between;
+                                    margin: 5px 0;
+                                    transition: position .5s ease-in;
+                                    width: 100%;
+                                    font-size: 1rem;
+                                    padding-left: 1rem;
+
+                                    .icon {
+                                        padding-right: 1rem;
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .plan-container {
+                        width: 100%;
+                        max-width: 560px;
+                        margin: 0px auto;
+                        padding: 20px 25px;
+                        box-sizing: border-box;
+                        transition: max-width 0.3s ease-in-out 0s;
+
+                        .about {
+                            .info-wrapper {
+                                span {
+                                    color: #737373;
+                                    display: block;
+                                    font-size: 13px;
+                                    padding: 0 16px;
+                                }
+                                
+                            }
+
+                            &:not(:first-child) {
+                                small {
+                                    span {
+                                        margin-top: 10px;
+                                    }
+                                }
+                            }
+                        }
+                        .btn-wrapper {
+                            margin: 20px auto;
+                            max-width: 440px;
+                            .btn-next {
+                                width: 100%;
+                                min-height: 3.5rem;
+                            }
+                        }
+                        .plan-header {
+                            margin-bottom: 24px;
+                            margin-top: 20px;
+                            .header-container {
+                                .step-header {
+                                    .step {
+                                        display: block;
+                                        font-size: 14px;
+                                        line-height: 19px;
+                                        text-align: left;
+                                    }
+                                    .step-title {
+                                        font-size: 32px;
+                                    }
+                                }
+                            }
+                        }
+                        .plan-selection {
+                            cursor: pointer;
+                            display: flex;
+                            flex: 1 1 0%;
+                            flex-direction: column;
+
+                            .plan-type-a {
+                                display: flex;
+                                flex: 1 1 auto;
+                                position: relative;
+                                .plan-a {
+                                    flex: 1 1 auto;
+                                    border: 1px solid rgba(128, 128, 128, 0.4);
+                                    border-radius: 18px;
+                                    position: relative;
+                                    margin: 0px;
+                                    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+                
+                                    .plan {
+                                        clip: rect(1px, 1px, 1px, 1px);
+                                        height: 1px;
+                                        overflow: hidden;
+                                        position: absolute;
+                                        width: 1px;
+
+                                        &:checked ~ label {
+                                            .checked {
+                                                opacity: 1;
+                                                .icon {
+                                                    animation: 250ms ease-out 0s 1 normal forwards running grow;
+                                                }
+                                            }
+                                        }
+                                    }
+                                    
+                                    .plan-1 {
+                                        border-radius: 12px;
+                                        box-sizing: border-box;
+                                        color: white;
+                                        cursor: pointer;
+                                        display: flex;
+                                        background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(229, 9, 20) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+                                        flex-direction: column;
+                                        margin: 8px;
+                                        min-height: 83px;
+                                        padding: 10px 16px;
+                                        box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+                                    }
+                                    
+                                    .plan-2 {
+                                        border-radius: 12px;
+                                        box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+                                        box-sizing: border-box;
+                                        color: white;
+                                        cursor: pointer;
+                                        display: flex;
+                                        margin: 8px;
+                                        min-height: 83px;
+                                        padding: 10px 16px;
+                                        flex-direction: column;
+                                        background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(176, 56, 220) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+                                    }
+                                    
+                                    .plan-3 {
+                                        border-radius: 12px;
+                                        box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+                                        box-sizing: border-box;
+                                        color: white;
+                                        cursor: pointer;
+                                        display: flex;
+                                        flex-direction: column;
+                                        min-height: 83px;
+                                        padding: 10px 16px;
+                                        background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(109, 59, 227) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+                                        margin: 8px;
+                                    }
+                                    .plan-1, .plan-2, .plan-3 {
+                                       .membership {
+                                           font-size: 1.125rem;
+                                           font-weight: 500;
+                                           line-height: 1.5;
+                                       }
+
+                                       .quality {
+                                           font-size: 0.875rem;
+                                           font-weight: 500;
+                                           line-height: 1.5;
+                                           color: white;
+                                       }
+
+                                       .checked {
+                                        height: 14px;
+                                        width: 14px;
+                                        border-radius: 50%;
+                                        cursor: initial;
+                                        border-style: none;
+                                        border-width: 1px;
+                                        border-color: rgba(255, 255, 255, 0.6);
+                                        display: flex;
+                                        -webkit-box-pack: center;
+                                        justify-content: center;
+                                        -webkit-box-align: center;
+                                        align-items: center;
+                                        align-self: end;
+                                        margin-top: auto;
+                                        opacity: 0;
+                                            .icon {
+                                                font-size: 10px;
+                                            }
+                                       }                          
+                                    }
+
+                                    
+
+                                    .details {
+                                        .details-container {
+                                            box-sizing: border-box;
+                                            padding: 0px 25px;
+                                            width: 100%;
+                                            li {
+                                                &:not(:last-child){
+                                                    border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+                                                }
+                                                padding: 12.5px 0px;
+                                                margin: 0px;
+                                                list-style: none;
+                                                display: flex;
+                                                -webkit-box-align: center;
+                                                align-items: center;
+                                                .info-container {
+                                                    display: flex;
+                                                    flex: 1 1 0%;
+                                                    -webkit-box-pack: justify;
+                                                    justify-content: space-between;
+                                                    flex-direction: column;
+                                                    align-items: flex-start;
+                                                    .info-title {
+                                                        font-size: 0.8125rem;
+                                                        font-weight: 500;
+                                                        line-height: 1.53846;
+                                                        color: rgb(118, 118, 118);
+                                                    }
+                                                    .data {
+                                                        font-size: 1rem;
+                                                        font-weight: 500;
+                                                        line-height: 1.5;
+                                                        color: rgba(0, 0, 0, 0.7);
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            .plan-alternative {
+                                display: flex;
+                                flex-direction: row;
+                                gap: 8px;
+                                align-items: stretch;
+                                width: 100%;
+                                .plan-type-b {
+                                    flex-basis: 100%;
+                                    .plan-b {
+                                        position: relative;
+                                        height: 100%;
+                                        .plan {
+                                            clip: rect(1px, 1px, 1px, 1px);
+                                            height: 1px;
+                                            overflow: hidden;
+                                            position: absolute;
+                                            width: 1px;
+    
+                                            &:checked ~ .plan-1 {
+                                            border: 1px solid rebeccapurple;
+                                            border-radius: 12px;
+                                            box-sizing: border-box;
+                                            padding: 12px;
+                                            overflow: hidden;
+                                            width: 100%;
+                                            display: flex;
+                                            flex-direction: column;
+                                            gap: 6px;
+                                            min-height: 107px;
+                                            transition: box-shadow 100ms ease-in-out 0s;
+                                            box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 13px -3px;
+                                            color: white;
+                                            background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(229, 9, 20) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+
+                                            .quality {
+                                                color: white;
+                                            }
+                                                .checked {
+                                                    opacity: 1;
+                                                    .icon {
+                                                        animation: 250ms ease-out 0s 1 normal forwards running grow;
+                                                    }
+                                                }
+                                            }
+
+                                            &:checked ~ .plan-2 {
+                                                border: 1px solid rebeccapurple;
+                                                box-sizing: border-box;
+                                                padding: 12px;
+                                                overflow: hidden;
+                                                width: 100%;
+                                                display: flex;
+                                                flex-direction: column;
+                                                gap: 6px;
+                                                min-height: 107px;
+                                                transition: box-shadow 100ms ease-in-out 0s;
+                                                box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 13px -3px;
+                                                color: white;
+                                                background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(176, 56, 220) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+                                                border-radius: 12px;
+
+                                                .quality {
+                                                    color: white;
+                                                }
+                                                .checked {
+                                                    opacity: 1;
+                                                    .icon {
+                                                      animation: 250ms ease-out 0s 1 normal forwards running grow;
+                                                    }
+                                                }
+                                            }
+                                            &:checked ~ .plan-3 {
+                                                border: 1px solid rebeccapurple;
+                                                border-radius: 12px;
+                                                box-sizing: border-box;
+                                                padding: 12px;
+                                                overflow: hidden;
+                                                width: 100%;
+                                                display: flex;
+                                                flex-direction: column;
+                                                gap: 6px;
+                                                min-height: 107px;
+                                                transition: box-shadow 100ms ease-in-out 0s;
+                                                box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 13px -3px;
+                                                color: white;
+                                                background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(109, 59, 227) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+
+                                                .quality {
+                                                    color: white;
+                                                }
+                                                .checked {
+                                                    opacity: 1;
+                                                    .icon {
+                                                      animation: 250ms ease-out 0s 1 normal forwards running grow;
+                                                    }
+                                                }
+                                            }
+                                        }
+
+                                        .plan-1, .plan-2, .plan-3 {
+                                            display: flex;
+                                            height: 100%;
+                                            border: 1px solid rgba(128, 128, 128, 0.4);
+                                            border-radius: 12px;
+                                            box-sizing: border-box;
+                                            padding: 12px;
+                                            overflow: hidden;
+                                            width: 100%;
+                                            display: flex;
+                                            flex-direction: column;
+                                            gap: 6px;
+                                            min-height: 107px;
+                                            color: black;
+                                            box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+
+                                            .membership {
+                                                font-size: 0.875rem;
+                                                font-weight: 500;
+                                                line-height: 1.5;
+                                                margin: 0px;
+                                            }
+                                            .quality {
+                                                font-size: 0.625rem;
+                                                font-weight: 500;
+                                                line-height: 1;
+                                                color: rgb(103, 103, 103);
+                                                bottom: 0px;
+                                            }
+
+                                            .checked {
+                                                height: 14px;
+                                                width: 14px;
+                                                border-radius: 50%;
+                                                cursor: initial;
+                                                border-style: none;
+                                                border-width: 1px;
+                                                border-color: rgba(128, 128, 128, 0.4);
+                                                display: flex;
+                                                justify-content: center;
+                                                align-items: center;
+                                                min-height: 16px;
+                                                align-self: end;
+                                                margin-top: auto;
+                                                max-width: 0px;
+                                                opacity: 0;
+                                                .icon {
+                                                    font-size: 5px;
+                                                }
+                                            }
+                                        }
+
+                                    }
+                                }
+                            }
+                            .current-plan {
+                                margin: 0px -25px;
+                                .features {
+                                    box-sizing: border-box;
+                                    padding: 0px 25px;
+                                    width: 100%;
+
+                                    li {
+                                        padding: 12.5px 0px;
+                                        margin: 0px;
+                                        list-style: none;
+                                        display: flex;
+                                        align-items: center;
+
+                                        &:not(:last-child) {
+                                            border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+                                        }
+                                        .features-info {
+                                            display: flex;
+                                            flex-direction: row;
+                                            align-items: center;
+                                            width: 100%;
+
+                                            .feature-title {
+                                                font-size: 0.8125rem;
+                                                font-weight: 500;
+                                                line-height: 1.53846;
+                                                color: rgb(118, 118, 118);
+                                                flex: 0 0 40%;
+                                                text-align: left;
+                                                flex: 0 0 40%;
+                                            }
+
+                                            .feature-data {
+                                                font-size: 1rem;
+                                                font-weight: 500;
+                                                line-height: 1.5;
+                                                color: rgba(0, 0, 0, 0.7);
+                                                flex: 0 0 calc(60% - 13px);
+                                                padding-left: 13px;
+                                                text-align: right;
+                                                flex: 0 0 calc(60% - 13px);
+                                                padding-left: 13px;
+                                                text-align: right;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    
+                }
+                button {
+                    background-color: #e50914;
+                    color: #fff;
+                    text-decoration: none;
+                    align-items: center;
+                    display: inline-flex;
+                    justify-content: center;
+                    border: 0px;
+                    cursor: pointer;
+                    position: relative;     
+                    border-radius: 4px;
+                    font-size: 24px;
+                    font-weight: 400;
+                    min-height: 64px;
+                }
+              }
+        }
+    }
+
+}
+
+@media screen and (min-width: 500px) {
+    .layout .header-sg {
+        .icon {
+            .NetflixIcon {
+                width: 200px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 500px) {
+   body .layout .header-sg {
+        height: 45px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .layout .container {
+        .new-user {
+            .slide-in {
+                .simple-container .center-container
+                {
+                    .info {
+                        .step-header-container .step-header {
+                            .stepIndex {
+                                display: block;
+                                font-size: 13px;
+                                line-height: 19px;
+                                text-align: left;
+                            }
+                            .stepTitle {
+                                text-align: left;
+                            }
+                        }
+                        .enjoy {
+                            text-align: left;
+                        }
+                    } 
+
+                    .payment-container .payment-header {
+                        padding: 10px 25px;
+                        .step-container {
+                            .step-header {
+                                text-align: left;
+                                .step {
+                                    text-align: left;
+                                }
+                            }
+                        }
+                        .info-container {
+                            text-align: left;
+                            margin: 0;
+                        }
+                    }
+                    
+                } 
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .layout .header-sg {
+        height: 75px;
+    }
+
+    .layout .container .new-user .slide-in {
+        .prev-btn {
+            font-size: 1.8rem;
+        }
+    }
+}
+
+@media screen and (min-width: 1050px) {
+    .layout .container .new-user .slide-in {
+        .simple-container {
+            
+          .plan-container {
+            max-width: 1100px;
+            padding: 24px 38px;
+
+            .plan-selection {
+                flex-direction: row;
+            }
+            .about {
+                margin: 24px -9px;
+            }
+            .plan-type-a {
+                &:not(:last-child) {
+                    margin-right: 12px;
+                }
+            }
+        }
+     }
+            
+    }
+}
+
+@keyframes slideInFromRight {
+    0% {
+      opacity: 0;
+      transform: translateX(5%);
+    }
+    25% {
+        opacity: .25;
+    }
+    50% {
+        opacity: .5;
+    }
+    75% {
+        opacity: .75;
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes grow {
+    to {
+      font-size: 20px;
+    }
+  }
+ 

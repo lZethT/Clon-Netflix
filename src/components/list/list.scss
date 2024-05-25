@@ -1,0 +1,37 @@
+.list {
+    width: 100%;
+    margin-top: 5px;
+    user-select: none;
+    z-index: 1;
+    .listTitle {
+        color: white;
+        font-size: 20px;
+        font-weight: 500;
+        margin-left: 30px;
+    }
+    
+    &:last-child {
+        margin-bottom: 30px;
+    }
+}
+
+.genre-list {
+    width: 100%;
+    margin-top: 5px;
+    user-select: none;
+    z-index: 1;
+    .genre-list__wrapper-genre{
+        position: relative;
+        margin-top: 15px;
+
+        .wrapper-genre__container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    }
+    &:last-child {
+        margin-bottom: 30px;
+    }
+}

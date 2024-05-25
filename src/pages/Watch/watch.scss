@@ -1,0 +1,41 @@
+.watch{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden; 
+
+    &:hover{
+        .back{
+            opacity: 1;
+            transition: .5s ease 0s;
+        }
+    }
+
+    .icon{
+      font-size: 40px;
+    }
+    .back {
+        transition: 1.5s ease 0s;
+        display: flex;
+        align-items: center;
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        color: white;
+        cursor: pointer;
+        font-size: 30px;
+        opacity: 0;
+    }
+}
+
+@media screen and (max-width: 599px){
+    .watch .back {
+        opacity: 1;
+    }
+
+    .watch .icon {
+        font-size: 15px;
+    }
+    .watch .back {
+        font-size: 20px;
+    }
+}
