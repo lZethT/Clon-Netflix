@@ -7,7 +7,7 @@ import {
 } from "@mui/icons-material";
 import "./navbar.scss";
 import React, { useContext, useState } from "react";
-import { Link, NavLink, Navigate } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import { ScrollContext } from "../contexts/ScrollContext";
 import movieData from "../../mocks/mock.json";
 import { UserContext } from "../contexts/UserContext";
