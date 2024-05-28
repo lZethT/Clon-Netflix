@@ -340,13 +340,13 @@ export const Frontpage = () => {
               </button>
             </div>
           </form>
+          <footer className="warn">
+            <p>
+              Esta página es un proyecto de portafolio y no esta asosciada o
+              respaldada por Netflix. Esta creada para propositos educativos.
+            </p>
+          </footer>
         </section>
-        <footer>
-          <p>
-            Esta página es un proyecto de portafolio y no esta asosciada o
-            respaldada por Netflix. Esta creada para propositos educativos.
-          </p>
-        </footer>
       </main>
     </>
   );
