@@ -98,6 +98,11 @@ export const Frontpage = () => {
 
   return (
     <>
+      <div className="warning">
+        Este es un proyecto de portafolio creado para demostrar habilidades de
+        desarrollo web y no está afiliado a Netflix. No se utiliza una base de
+        datos real y el registro y login se realizan mediante IndexedDB.
+      </div>
       <header className="header">
         <div className="wrapper">
           <div className="container">
@@ -340,12 +345,6 @@ export const Frontpage = () => {
               </button>
             </div>
           </form>
-          <footer className="warn">
-            <p>
-              Esta página es un proyecto de portafolio y no esta asosciada o
-              respaldada por Netflix. Esta creada para propositos educativos.
-            </p>
-          </footer>
         </section>
       </main>
     </>
